@@ -1,0 +1,5 @@
+/content/documents/trading-nation:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['mix:versionable']
+  jcr:uuid: 1e3fae91-d258-4acd-8a21-2bfb2e65f025
+  hippostd:foldertype: [new-document, new-folder]

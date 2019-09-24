@@ -1,0 +1,139 @@
+/content/documents/trading-nation/contact:
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+  jcr:uuid: 09d2318b-b710-4f00-9b27-396a21290149
+  hippo:name: contact
+  hippo:versionHistory: ec7a857d-15b1-42b9-bf03-5ff1a8a6e86a
+  /contact[1]:
+    jcr:primaryType: publishing:article
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: c3021ef9-feec-4335-bf8e-492e232ae8d8
+    hippo:availability: []
+    hippostd:state: draft
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-09-23T15:41:10.161+01:00
+    hippostdpubwf:lastModificationDate: 2019-09-23T15:41:10.161+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippotranslation:id: 5913a902-71d6-486c-b354-109a42fa92bc
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: Contact the Scottish Government about A Trading Nation.
+    publishing:permalink: /contact/
+    publishing:reportingtags: []
+    publishing:seoTitle: Contact
+    publishing:summary: Contact the Scottish Government about A Trading Nation.
+    publishing:title: Contact
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: "<html>\n <head></head>\n <body>\n  <p class=\"leader\"> To\
+        \ contact us about <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+        >A Trading Nation</a> you can: </p> \n  <h2>Email</h2> \n  <p>Email us at\
+        \ <a href=\"mailto:exportplan@gov.scot\">exportplan@gov.scot</a></p> \n  <h2>Phone</h2>\
+        \ \n  <p>Call 0300 244 1305 Monday to Friday, 9am to 4pm.</p> \n  <p><a href=\"\
+        https://www.gov.uk/call-charges\">Find out about call charges</a></p> \n \
+        \ <h2>Address</h2> \n  <p>Trade and Investment Delivery Division<br> The Scottish\
+        \ Government<br> 5 Atlantic Quay<br> 150 Broomielaw<br> Glasgow<br> G2 8LU</p>\
+        \ \n  <h2>Twitter</h2> \n  <p>Follow us <a href=\"https://twitter.com/ditiscotland?lang=en\"\
+        >@DITIscotland</a></p> \n  <div class=\"ds_information-text\"> \n   <span\
+        \ class=\"ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span\
+        \ class=\"ds_information-text__text\"> <span class=\"visually-hidden  hidden\"\
+        >Information:</span> If you’re a business looking for help with exporting,\
+        \ you can <a href=\"help-for-businesses\">find help and support</a>. </span>\
+        \ \n  </div> \n  <h2>Media enquiries</h2> \n  <p>You can contact the Scottish\
+        \ Government newsdesk on 0131 244 0222, Monday to Friday 9am to 5:30pm.</p>\
+        \ \n  <p>During out of hours, contact 0300 244 4000.</p> \n </body>\n</html>"
+      /help-for-businesses:
+        jcr:primaryType: hippo:facetselect
+        hippo:docbase: 5db6d2b9-385d-42c8-b3f2-9a3eb84e5a10
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /contact[2]:
+    jcr:primaryType: publishing:article
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: a15b4a33-b2aa-4e17-bba9-de05cecf978f
+    hippo:availability: [preview]
+    hippostd:state: unpublished
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-09-23T15:41:10.161+01:00
+    hippostdpubwf:lastModificationDate: 2019-09-23T15:41:10.327+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippotranslation:id: 5913a902-71d6-486c-b354-109a42fa92bc
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: Contact the Scottish Government about A Trading Nation.
+    publishing:permalink: /contact/
+    publishing:reportingtags: []
+    publishing:seoTitle: Contact
+    publishing:summary: Contact the Scottish Government about A Trading Nation.
+    publishing:title: Contact
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: "<html>\n <head></head>\n <body>\n  <p class=\"leader\"> To\
+        \ contact us about <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+        >A Trading Nation</a> you can: </p> \n  <h2>Email</h2> \n  <p>Email us at\
+        \ <a href=\"mailto:exportplan@gov.scot\">exportplan@gov.scot</a></p> \n  <h2>Phone</h2>\
+        \ \n  <p>Call 0300 244 1305 Monday to Friday, 9am to 4pm.</p> \n  <p><a href=\"\
+        https://www.gov.uk/call-charges\">Find out about call charges</a></p> \n \
+        \ <h2>Address</h2> \n  <p>Trade and Investment Delivery Division<br> The Scottish\
+        \ Government<br> 5 Atlantic Quay<br> 150 Broomielaw<br> Glasgow<br> G2 8LU</p>\
+        \ \n  <h2>Twitter</h2> \n  <p>Follow us <a href=\"https://twitter.com/ditiscotland?lang=en\"\
+        >@DITIscotland</a></p> \n  <div class=\"ds_information-text\"> \n   <span\
+        \ class=\"ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span\
+        \ class=\"ds_information-text__text\"> <span class=\"visually-hidden  hidden\"\
+        >Information:</span> If you’re a business looking for help with exporting,\
+        \ you can <a href=\"help-for-businesses\">find help and support</a>. </span>\
+        \ \n  </div> \n  <h2>Media enquiries</h2> \n  <p>You can contact the Scottish\
+        \ Government newsdesk on 0131 244 0222, Monday to Friday 9am to 5:30pm.</p>\
+        \ \n  <p>During out of hours, contact 0300 244 4000.</p> \n </body>\n</html>"
+      /help-for-businesses:
+        jcr:primaryType: hippo:facetselect
+        hippo:docbase: 5db6d2b9-385d-42c8-b3f2-9a3eb84e5a10
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /contact[3]:
+    jcr:primaryType: publishing:article
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 33fff7a6-95db-4783-b782-65d021ae6c55
+    hippo:availability: [live]
+    hippostd:state: published
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-09-23T15:41:10.161+01:00
+    hippostdpubwf:lastModificationDate: 2019-09-23T15:41:10.327+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippostdpubwf:publicationDate: 2019-09-23T15:41:10.431+01:00
+    hippotranslation:id: 5913a902-71d6-486c-b354-109a42fa92bc
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: Contact the Scottish Government about A Trading Nation.
+    publishing:permalink: /contact/
+    publishing:reportingtags: []
+    publishing:seoTitle: Contact
+    publishing:summary: Contact the Scottish Government about A Trading Nation.
+    publishing:title: Contact
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: "<html>\n <head></head>\n <body>\n  <p class=\"leader\"> To\
+        \ contact us about <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+        >A Trading Nation</a> you can: </p> \n  <h2>Email</h2> \n  <p>Email us at\
+        \ <a href=\"mailto:exportplan@gov.scot\">exportplan@gov.scot</a></p> \n  <h2>Phone</h2>\
+        \ \n  <p>Call 0300 244 1305 Monday to Friday, 9am to 4pm.</p> \n  <p><a href=\"\
+        https://www.gov.uk/call-charges\">Find out about call charges</a></p> \n \
+        \ <h2>Address</h2> \n  <p>Trade and Investment Delivery Division<br> The Scottish\
+        \ Government<br> 5 Atlantic Quay<br> 150 Broomielaw<br> Glasgow<br> G2 8LU</p>\
+        \ \n  <h2>Twitter</h2> \n  <p>Follow us <a href=\"https://twitter.com/ditiscotland?lang=en\"\
+        >@DITIscotland</a></p> \n  <div class=\"ds_information-text\"> \n   <span\
+        \ class=\"ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span\
+        \ class=\"ds_information-text__text\"> <span class=\"visually-hidden  hidden\"\
+        >Information:</span> If you’re a business looking for help with exporting,\
+        \ you can <a href=\"help-for-businesses\">find help and support</a>. </span>\
+        \ \n  </div> \n  <h2>Media enquiries</h2> \n  <p>You can contact the Scottish\
+        \ Government newsdesk on 0131 244 0222, Monday to Friday 9am to 5:30pm.</p>\
+        \ \n  <p>During out of hours, contact 0300 244 4000.</p> \n </body>\n</html>"
+      /help-for-businesses:
+        jcr:primaryType: hippo:facetselect
+        hippo:docbase: 5db6d2b9-385d-42c8-b3f2-9a3eb84e5a10
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []

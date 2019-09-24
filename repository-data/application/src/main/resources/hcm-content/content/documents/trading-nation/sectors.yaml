@@ -1,0 +1,2857 @@
+/content/documents/trading-nation/sectors:
+  .meta:order-before: country-profiles
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['mix:versionable']
+  jcr:uuid: 5449296a-2f2b-4562-b440-d8d4a50785f5
+  hippostd:foldertype: [new-document, new-folder]
+  /index:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 334013ee-09cd-435d-b975-70f4aa862eaf
+    hippo:name: index
+    hippo:versionHistory: 85aeef70-06b8-4d60-8de3-0a3d6b819b3e
+    /index[1]:
+      jcr:primaryType: publishing:category
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 4ad73312-d129-425f-9b68-6e9cdf7b6a37
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:09.028+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:09.028+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: bf897436-3091-4e84-aabe-92baeceb1581
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: Includes where sectors could sell more and what
+        we’re going to do to help.
+      publishing:navigationType: grid
+      publishing:permalink: /sectors/
+      publishing:reportingtags: []
+      publishing:seoTitle: Sector profiles
+      publishing:sequenceable: true
+      publishing:summary: Includes where sectors could sell more and what we’re going
+        to do to help.
+      publishing:title: Sector profiles
+      /publishing:heroImage:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: ce294a0a-83cc-4d7c-861b-211fc5b8b3a7
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+    /index[2]:
+      jcr:primaryType: publishing:category
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: eb2ec343-50e3-460e-b92a-f0b3ea8712ea
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:09.028+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:09.225+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: bf897436-3091-4e84-aabe-92baeceb1581
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: Includes where sectors could sell more and what
+        we’re going to do to help.
+      publishing:navigationType: grid
+      publishing:permalink: /sectors/
+      publishing:reportingtags: []
+      publishing:seoTitle: Sector profiles
+      publishing:sequenceable: true
+      publishing:summary: Includes where sectors could sell more and what we’re going
+        to do to help.
+      publishing:title: Sector profiles
+      /publishing:heroImage:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: ce294a0a-83cc-4d7c-861b-211fc5b8b3a7
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+    /index[3]:
+      jcr:primaryType: publishing:category
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: cd2ec91a-3716-44de-98fd-9a2e2f48adf6
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:09.028+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:09.225+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippostdpubwf:publicationDate: 2019-09-23T15:41:09.332+01:00
+      hippotranslation:id: bf897436-3091-4e84-aabe-92baeceb1581
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: Includes where sectors could sell more and what
+        we’re going to do to help.
+      publishing:navigationType: grid
+      publishing:permalink: /sectors/
+      publishing:reportingtags: []
+      publishing:seoTitle: Sector profiles
+      publishing:sequenceable: true
+      publishing:summary: Includes where sectors could sell more and what we’re going
+        to do to help.
+      publishing:title: Sector profiles
+      /publishing:heroImage:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: ce294a0a-83cc-4d7c-861b-211fc5b8b3a7
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+  /energy:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 26797026-2cef-4084-8191-7fb3680edeae
+    hippo:name: energy
+    hippo:versionHistory: e6f04d55-1465-47c1-b07e-f974e0b475bd
+    /energy[1]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 13190720-85a8-44f7-bcdb-5b41bc3c273a
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:20.479+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:20.479+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: bce0854f-f549-44c3-b88a-e0a5f820c348
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/energy/
+      publishing:reportingtags: []
+      publishing:seoTitle: Energy
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Energy
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"energy.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of wind turbines depicting the energy sector\"></p> \n\
+          \  <p>In 2017, energy made up:</p> \n  <ul> \n   <li>11.7% of Scotland’\
+          s international exports (£3.8 billion)</li> \n   <li>15.9% of Scotland’\
+          s UK exports (£7.8 billion)</li> \n  </ul> \n  <p>The energy sector covers:</p>\
+          \ \n  <ul> \n   <li>mining and mining support</li> \n   <li>utilities, such\
+          \ as electricity, gas, renewables</li> \n  </ul> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> covers some oil and gas sector activities, such as:</p>\
+          \ \n  <ul> \n   <li>consultancy</li> \n   <li>engineering</li> \n   <li>equipment</li>\
+          \ \n  </ul> \n  <p>It does not include oil and gas production.</p> \n  <h2>How\
+          \ Scotland’s energy exports have increased since 2002</h2> \n  <p><img src=\"\
+          energy-figure-1.jpg/{_document}/hippogallery:original\" alt=\"Graph showing\
+          \ how Scotland’s energy exports increased to the rest of the UK and internationally\
+          \ between 2002 and 2017.\"></p> \n  <p>Between 2002 and 2017 Scotland’s\
+          \ energy exports increased:</p> \n  <ul> \n   <li>internationally from £\
+          700 million to £3.8 billion</li> \n   <li>to the rest of the UK from £2.6\
+          \ billion to £7.8 billion</li> \n  </ul> \n  <h2>Where we can sell more</h2>\
+          \ \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ energy imports</h3> \n  <ul> \n   <li><a href=\"france\">France</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          belgium\">Belgium</a></li> \n   <li>Singapore</li> \n  </ul> \n  <h3>Where\
+          \ Scotland’s currently exporting less than similar countries</h3> \n  <ul>\
+          \ \n   <li><a href=\"france\">France</a></li> \n   <li><a href=\"poland\"\
+          >Poland</a></li> \n   <li><a href=\"sweden\">Sweden</a></li> \n   <li><a\
+          \ href=\"canada\">Canada</a></li> \n   <li>Australia</li> \n   <li>India</li>\
+          \ \n   <li>Singapore</li> \n   <li>South Korea</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <h3>Access to data</h3> \n  <p>We'll help industry\
+          \ bodies get better access to data on energy, so they can identify export\
+          \ opportunities.</p> \n  <h3>In-market specialists</h3> \n  <p>We'll work\
+          \ with Scottish Development International and Opportunity North East to\
+          \ invest in five overseas in-market specialists.</p> \n  <p>These specialists\
+          \ will find new business opportunities for the Scottish energy supply chain.\
+          \ They'll do this by building relationships with:</p> \n  <ul> \n   <li>customers</li>\
+          \ \n   <li>government departments</li> \n   <li>regulators</li> \n   <li>intermediaries</li>\
+          \ \n  </ul> \n  <h3>Nuclear decommissioning</h3> \n  <p>We'll develop a\
+          \ Scottish nuclear decommissioning capability statement, international mapping\
+          \ and networking exercise.</p> \n  <h3>Global low carbon transition</h3>\
+          \ \n  <p>We'll work with Scottish businesses to take up opportunities created\
+          \ by the global change to low carbon technologies. We’ll do this by:</p>\
+          \ \n  <ul> \n   <li>supporting the oil and gas supply chain to diversify</li>\
+          \ \n   <li>helping businesses increase their sales to new countries and\
+          \ sectors</li> \n  </ul> \n  <p>You can find more information on Scotland’\
+          s energy sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /energy.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 36be723a-bd8a-406d-ae11-217c052871a6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /energy-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 30f3a82a-8c6e-4f66-bf0c-bb43095542fd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /sweden:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8df290e8-6b52-4c08-8009-3035cd971d3e
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /energy[2]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 61096a7b-b13a-4ec7-8ee6-26e26cc115d1
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:20.479+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:20.655+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: bce0854f-f549-44c3-b88a-e0a5f820c348
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/energy/
+      publishing:reportingtags: []
+      publishing:seoTitle: Energy
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Energy
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"energy.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of wind turbines depicting the energy sector\"></p> \n\
+          \  <p>In 2017, energy made up:</p> \n  <ul> \n   <li>11.7% of Scotland’\
+          s international exports (£3.8 billion)</li> \n   <li>15.9% of Scotland’\
+          s UK exports (£7.8 billion)</li> \n  </ul> \n  <p>The energy sector covers:</p>\
+          \ \n  <ul> \n   <li>mining and mining support</li> \n   <li>utilities, such\
+          \ as electricity, gas, renewables</li> \n  </ul> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> covers some oil and gas sector activities, such as:</p>\
+          \ \n  <ul> \n   <li>consultancy</li> \n   <li>engineering</li> \n   <li>equipment</li>\
+          \ \n  </ul> \n  <p>It does not include oil and gas production.</p> \n  <h2>How\
+          \ Scotland’s energy exports have increased since 2002</h2> \n  <p><img src=\"\
+          energy-figure-1.jpg/{_document}/hippogallery:original\" alt=\"Graph showing\
+          \ how Scotland’s energy exports increased to the rest of the UK and internationally\
+          \ between 2002 and 2017.\"></p> \n  <p>Between 2002 and 2017 Scotland’s\
+          \ energy exports increased:</p> \n  <ul> \n   <li>internationally from £\
+          700 million to £3.8 billion</li> \n   <li>to the rest of the UK from £2.6\
+          \ billion to £7.8 billion</li> \n  </ul> \n  <h2>Where we can sell more</h2>\
+          \ \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ energy imports</h3> \n  <ul> \n   <li><a href=\"france\">France</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          belgium\">Belgium</a></li> \n   <li>Singapore</li> \n  </ul> \n  <h3>Where\
+          \ Scotland’s currently exporting less than similar countries</h3> \n  <ul>\
+          \ \n   <li><a href=\"france\">France</a></li> \n   <li><a href=\"poland\"\
+          >Poland</a></li> \n   <li><a href=\"sweden\">Sweden</a></li> \n   <li><a\
+          \ href=\"canada\">Canada</a></li> \n   <li>Australia</li> \n   <li>India</li>\
+          \ \n   <li>Singapore</li> \n   <li>South Korea</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <h3>Access to data</h3> \n  <p>We'll help industry\
+          \ bodies get better access to data on energy, so they can identify export\
+          \ opportunities.</p> \n  <h3>In-market specialists</h3> \n  <p>We'll work\
+          \ with Scottish Development International and Opportunity North East to\
+          \ invest in five overseas in-market specialists.</p> \n  <p>These specialists\
+          \ will find new business opportunities for the Scottish energy supply chain.\
+          \ They'll do this by building relationships with:</p> \n  <ul> \n   <li>customers</li>\
+          \ \n   <li>government departments</li> \n   <li>regulators</li> \n   <li>intermediaries</li>\
+          \ \n  </ul> \n  <h3>Nuclear decommissioning</h3> \n  <p>We'll develop a\
+          \ Scottish nuclear decommissioning capability statement, international mapping\
+          \ and networking exercise.</p> \n  <h3>Global low carbon transition</h3>\
+          \ \n  <p>We'll work with Scottish businesses to take up opportunities created\
+          \ by the global change to low carbon technologies. We’ll do this by:</p>\
+          \ \n  <ul> \n   <li>supporting the oil and gas supply chain to diversify</li>\
+          \ \n   <li>helping businesses increase their sales to new countries and\
+          \ sectors</li> \n  </ul> \n  <p>You can find more information on Scotland’\
+          s energy sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /energy.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 36be723a-bd8a-406d-ae11-217c052871a6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /energy-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 30f3a82a-8c6e-4f66-bf0c-bb43095542fd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /sweden:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8df290e8-6b52-4c08-8009-3035cd971d3e
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /energy[3]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: f941a69b-e754-422d-a3fa-d964454a3699
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:20.479+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:20.655+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippostdpubwf:publicationDate: 2019-09-23T15:41:20.765+01:00
+      hippotranslation:id: bce0854f-f549-44c3-b88a-e0a5f820c348
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/energy/
+      publishing:reportingtags: []
+      publishing:seoTitle: Energy
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Energy
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"energy.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of wind turbines depicting the energy sector\"></p> \n\
+          \  <p>In 2017, energy made up:</p> \n  <ul> \n   <li>11.7% of Scotland’\
+          s international exports (£3.8 billion)</li> \n   <li>15.9% of Scotland’\
+          s UK exports (£7.8 billion)</li> \n  </ul> \n  <p>The energy sector covers:</p>\
+          \ \n  <ul> \n   <li>mining and mining support</li> \n   <li>utilities, such\
+          \ as electricity, gas, renewables</li> \n  </ul> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> covers some oil and gas sector activities, such as:</p>\
+          \ \n  <ul> \n   <li>consultancy</li> \n   <li>engineering</li> \n   <li>equipment</li>\
+          \ \n  </ul> \n  <p>It does not include oil and gas production.</p> \n  <h2>How\
+          \ Scotland’s energy exports have increased since 2002</h2> \n  <p><img src=\"\
+          energy-figure-1.jpg/{_document}/hippogallery:original\" alt=\"Graph showing\
+          \ how Scotland’s energy exports increased to the rest of the UK and internationally\
+          \ between 2002 and 2017.\"></p> \n  <p>Between 2002 and 2017 Scotland’s\
+          \ energy exports increased:</p> \n  <ul> \n   <li>internationally from £\
+          700 million to £3.8 billion</li> \n   <li>to the rest of the UK from £2.6\
+          \ billion to £7.8 billion</li> \n  </ul> \n  <h2>Where we can sell more</h2>\
+          \ \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ energy imports</h3> \n  <ul> \n   <li><a href=\"france\">France</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          belgium\">Belgium</a></li> \n   <li>Singapore</li> \n  </ul> \n  <h3>Where\
+          \ Scotland’s currently exporting less than similar countries</h3> \n  <ul>\
+          \ \n   <li><a href=\"france\">France</a></li> \n   <li><a href=\"poland\"\
+          >Poland</a></li> \n   <li><a href=\"sweden\">Sweden</a></li> \n   <li><a\
+          \ href=\"canada\">Canada</a></li> \n   <li>Australia</li> \n   <li>India</li>\
+          \ \n   <li>Singapore</li> \n   <li>South Korea</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <h3>Access to data</h3> \n  <p>We'll help industry\
+          \ bodies get better access to data on energy, so they can identify export\
+          \ opportunities.</p> \n  <h3>In-market specialists</h3> \n  <p>We'll work\
+          \ with Scottish Development International and Opportunity North East to\
+          \ invest in five overseas in-market specialists.</p> \n  <p>These specialists\
+          \ will find new business opportunities for the Scottish energy supply chain.\
+          \ They'll do this by building relationships with:</p> \n  <ul> \n   <li>customers</li>\
+          \ \n   <li>government departments</li> \n   <li>regulators</li> \n   <li>intermediaries</li>\
+          \ \n  </ul> \n  <h3>Nuclear decommissioning</h3> \n  <p>We'll develop a\
+          \ Scottish nuclear decommissioning capability statement, international mapping\
+          \ and networking exercise.</p> \n  <h3>Global low carbon transition</h3>\
+          \ \n  <p>We'll work with Scottish businesses to take up opportunities created\
+          \ by the global change to low carbon technologies. We’ll do this by:</p>\
+          \ \n  <ul> \n   <li>supporting the oil and gas supply chain to diversify</li>\
+          \ \n   <li>helping businesses increase their sales to new countries and\
+          \ sectors</li> \n  </ul> \n  <p>You can find more information on Scotland’\
+          s energy sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /energy.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 36be723a-bd8a-406d-ae11-217c052871a6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /energy-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 30f3a82a-8c6e-4f66-bf0c-bb43095542fd
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /sweden:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8df290e8-6b52-4c08-8009-3035cd971d3e
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+  /engineering-and-advanced-manufacturing:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 0ee69499-f529-4e75-a4ec-386cb2200d7c
+    hippo:name: engineering-and-advanced-manufacturing
+    hippo:versionHistory: abfb7c76-34b3-497b-ba49-2e45206766c6
+    /engineering-and-advanced-manufacturing[1]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 0fe93655-2648-4b2f-b054-84f580f2bb5e
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:20.979+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:20.979+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: 8860d342-d862-45c8-90a0-be6991193220
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/engineering-and-advanced-manufacturing/
+      publishing:reportingtags: []
+      publishing:seoTitle: Engineering and advanced manufacturing
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Engineering and advanced manufacturing
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"engineering-and-advanced-manufacturing.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of Queensferry Crossing depicting the engineering sector\"\
+          ></p> \n  <p>In 2017, engineering and advanced manufacturing made up:</p>\
+          \ \n  <ul> \n   <li>17.6% of Scotland’s international exports (£5.7 billion)</li>\
+          \ \n   <li>9.7% of Scotland’s UK exports (£4.7 billion)</li> \n  </ul> \n\
+          \  <p>Engineering and advanced manufacturing covers things like:</p> \n\
+          \  <ul> \n   <li>metal manufacturing</li> \n   <li>machinery and equipment</li>\
+          \ \n   <li>transport equipment</li> \n   <li>architectural activities</li>\
+          \ \n   <li>engineering services for example: design, consultancy</li> \n\
+          \  </ul> \n  <h2>How Scotland’s engineering and advanced manufacturing exports\
+          \ have increased since 2002</h2> \n  <p><img src=\"engineering-and-advanced-manufacturing-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing Scotland’s engineering and advanced manufacturing\
+          \ exports. It shows that both international exports and exports the rest\
+          \ of the UK increased between 2002 and 2017.\"></p> \n  <p>Between 2002\
+          \ and 2017 Scotland’s engineering and advanced manufacturing exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £3.6 billion to £5.7 billion</li>\
+          \ \n   <li>to the rest of the UK from £3.8 billion to £4.7 billion</li>\
+          \ \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ engineering and advanced manufacturing imports</h3> \n  <ul> \n   <li><a\
+          \ href=\"usa\">United States of America</a></li> \n   <li><a href=\"germany\"\
+          >Germany</a></li> \n   <li><a href=\"china\">China</a></li> \n   <li><a\
+          \ href=\"italy\">Italy</a></li> \n   <li><a href=\"canada\">Canada</a></li>\
+          \ \n   <li><a href=\"spain\">Spain</a></li> \n   <li>Mexico</li> \n  </ul>\
+          \ \n  <h3>Where Scotland’s currently exporting less than similar countries</h3>\
+          \ \n  <ul> \n   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"\
+          netherlands\">Netherlands</a></li> \n   <li><a href=\"poland\">Poland</a></li>\
+          \ \n   <li><a href=\"china\">China</a></li> \n   <li><a href=\"ireland\"\
+          >Ireland</a></li> \n   <li>South Korea</li> \n  </ul> \n  <h2>What we're\
+          \ going to do</h2> \n  <p>To help engineering and advanced manufacturing\
+          \ exports, we’ll:</p> \n  <ul> \n   <li>work with industry bodies and the\
+          \ enterprise agencies to create market development plans for selected sub-sectors\
+          \ and countries</li> \n   <li>support businesses to develop international\
+          \ leadership and sales skills</li> \n   <li>work with industry bodies to\
+          \ share new ideas and exporting best practice</li> \n   <li>help the industry\
+          \ to get high quality graduates and technical talent</li> \n   <li>make\
+          \ sure businesses can still get skilled overseas employees (post-EU exit)</li>\
+          \ \n   <li>help businesses to get finance for export growth plans</li> \n\
+          \   <li>find <a href=\"https://www.globalscot.com/\">GlobalScots</a> or\
+          \ Trade Envoys who can offer businesses advice, support or introductions</li>\
+          \ \n   <li>help businesses find export opportunities by exploring ways to\
+          \ make sector data available</li> \n  </ul> \n  <p>You can find more information\
+          \ on Scotland’s engineering and advanced manufacturing sector in <a href=\"\
+          https://www.gov.scot/publications/scotland-a-trading-nation/\">A Trading\
+          \ Nation</a>.</p> \n </body>\n</html>"
+        /engineering-and-advanced-manufacturing.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 9805d931-c469-4b8d-a4a6-8e22fe608cf0
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /engineering-and-advanced-manufacturing-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 46360946-ddb6-47b5-8f90-01441ba25985
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /spain:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: d55dfa79-b6db-45e0-8101-31da828746c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /engineering-and-advanced-manufacturing[2]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 35244212-59dd-4549-9aed-893d2e3667ce
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:20.979+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:21.185+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: 8860d342-d862-45c8-90a0-be6991193220
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/engineering-and-advanced-manufacturing/
+      publishing:reportingtags: []
+      publishing:seoTitle: Engineering and advanced manufacturing
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Engineering and advanced manufacturing
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"engineering-and-advanced-manufacturing.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of Queensferry Crossing depicting the engineering sector\"\
+          ></p> \n  <p>In 2017, engineering and advanced manufacturing made up:</p>\
+          \ \n  <ul> \n   <li>17.6% of Scotland’s international exports (£5.7 billion)</li>\
+          \ \n   <li>9.7% of Scotland’s UK exports (£4.7 billion)</li> \n  </ul> \n\
+          \  <p>Engineering and advanced manufacturing covers things like:</p> \n\
+          \  <ul> \n   <li>metal manufacturing</li> \n   <li>machinery and equipment</li>\
+          \ \n   <li>transport equipment</li> \n   <li>architectural activities</li>\
+          \ \n   <li>engineering services for example: design, consultancy</li> \n\
+          \  </ul> \n  <h2>How Scotland’s engineering and advanced manufacturing exports\
+          \ have increased since 2002</h2> \n  <p><img src=\"engineering-and-advanced-manufacturing-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing Scotland’s engineering and advanced manufacturing\
+          \ exports. It shows that both international exports and exports the rest\
+          \ of the UK increased between 2002 and 2017.\"></p> \n  <p>Between 2002\
+          \ and 2017 Scotland’s engineering and advanced manufacturing exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £3.6 billion to £5.7 billion</li>\
+          \ \n   <li>to the rest of the UK from £3.8 billion to £4.7 billion</li>\
+          \ \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ engineering and advanced manufacturing imports</h3> \n  <ul> \n   <li><a\
+          \ href=\"usa\">United States of America</a></li> \n   <li><a href=\"germany\"\
+          >Germany</a></li> \n   <li><a href=\"china\">China</a></li> \n   <li><a\
+          \ href=\"italy\">Italy</a></li> \n   <li><a href=\"canada\">Canada</a></li>\
+          \ \n   <li><a href=\"spain\">Spain</a></li> \n   <li>Mexico</li> \n  </ul>\
+          \ \n  <h3>Where Scotland’s currently exporting less than similar countries</h3>\
+          \ \n  <ul> \n   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"\
+          netherlands\">Netherlands</a></li> \n   <li><a href=\"poland\">Poland</a></li>\
+          \ \n   <li><a href=\"china\">China</a></li> \n   <li><a href=\"ireland\"\
+          >Ireland</a></li> \n   <li>South Korea</li> \n  </ul> \n  <h2>What we're\
+          \ going to do</h2> \n  <p>To help engineering and advanced manufacturing\
+          \ exports, we’ll:</p> \n  <ul> \n   <li>work with industry bodies and the\
+          \ enterprise agencies to create market development plans for selected sub-sectors\
+          \ and countries</li> \n   <li>support businesses to develop international\
+          \ leadership and sales skills</li> \n   <li>work with industry bodies to\
+          \ share new ideas and exporting best practice</li> \n   <li>help the industry\
+          \ to get high quality graduates and technical talent</li> \n   <li>make\
+          \ sure businesses can still get skilled overseas employees (post-EU exit)</li>\
+          \ \n   <li>help businesses to get finance for export growth plans</li> \n\
+          \   <li>find <a href=\"https://www.globalscot.com/\">GlobalScots</a> or\
+          \ Trade Envoys who can offer businesses advice, support or introductions</li>\
+          \ \n   <li>help businesses find export opportunities by exploring ways to\
+          \ make sector data available</li> \n  </ul> \n  <p>You can find more information\
+          \ on Scotland’s engineering and advanced manufacturing sector in <a href=\"\
+          https://www.gov.scot/publications/scotland-a-trading-nation/\">A Trading\
+          \ Nation</a>.</p> \n </body>\n</html>"
+        /engineering-and-advanced-manufacturing.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 9805d931-c469-4b8d-a4a6-8e22fe608cf0
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /engineering-and-advanced-manufacturing-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 46360946-ddb6-47b5-8f90-01441ba25985
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /spain:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: d55dfa79-b6db-45e0-8101-31da828746c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /engineering-and-advanced-manufacturing[3]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 22d9bbdf-7983-4423-b2c0-0465381ef2bc
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:20.979+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:21.185+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippostdpubwf:publicationDate: 2019-09-23T15:41:21.282+01:00
+      hippotranslation:id: 8860d342-d862-45c8-90a0-be6991193220
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/engineering-and-advanced-manufacturing/
+      publishing:reportingtags: []
+      publishing:seoTitle: Engineering and advanced manufacturing
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Engineering and advanced manufacturing
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"engineering-and-advanced-manufacturing.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of Queensferry Crossing depicting the engineering sector\"\
+          ></p> \n  <p>In 2017, engineering and advanced manufacturing made up:</p>\
+          \ \n  <ul> \n   <li>17.6% of Scotland’s international exports (£5.7 billion)</li>\
+          \ \n   <li>9.7% of Scotland’s UK exports (£4.7 billion)</li> \n  </ul> \n\
+          \  <p>Engineering and advanced manufacturing covers things like:</p> \n\
+          \  <ul> \n   <li>metal manufacturing</li> \n   <li>machinery and equipment</li>\
+          \ \n   <li>transport equipment</li> \n   <li>architectural activities</li>\
+          \ \n   <li>engineering services for example: design, consultancy</li> \n\
+          \  </ul> \n  <h2>How Scotland’s engineering and advanced manufacturing exports\
+          \ have increased since 2002</h2> \n  <p><img src=\"engineering-and-advanced-manufacturing-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing Scotland’s engineering and advanced manufacturing\
+          \ exports. It shows that both international exports and exports the rest\
+          \ of the UK increased between 2002 and 2017.\"></p> \n  <p>Between 2002\
+          \ and 2017 Scotland’s engineering and advanced manufacturing exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £3.6 billion to £5.7 billion</li>\
+          \ \n   <li>to the rest of the UK from £3.8 billion to £4.7 billion</li>\
+          \ \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ engineering and advanced manufacturing imports</h3> \n  <ul> \n   <li><a\
+          \ href=\"usa\">United States of America</a></li> \n   <li><a href=\"germany\"\
+          >Germany</a></li> \n   <li><a href=\"china\">China</a></li> \n   <li><a\
+          \ href=\"italy\">Italy</a></li> \n   <li><a href=\"canada\">Canada</a></li>\
+          \ \n   <li><a href=\"spain\">Spain</a></li> \n   <li>Mexico</li> \n  </ul>\
+          \ \n  <h3>Where Scotland’s currently exporting less than similar countries</h3>\
+          \ \n  <ul> \n   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"\
+          netherlands\">Netherlands</a></li> \n   <li><a href=\"poland\">Poland</a></li>\
+          \ \n   <li><a href=\"china\">China</a></li> \n   <li><a href=\"ireland\"\
+          >Ireland</a></li> \n   <li>South Korea</li> \n  </ul> \n  <h2>What we're\
+          \ going to do</h2> \n  <p>To help engineering and advanced manufacturing\
+          \ exports, we’ll:</p> \n  <ul> \n   <li>work with industry bodies and the\
+          \ enterprise agencies to create market development plans for selected sub-sectors\
+          \ and countries</li> \n   <li>support businesses to develop international\
+          \ leadership and sales skills</li> \n   <li>work with industry bodies to\
+          \ share new ideas and exporting best practice</li> \n   <li>help the industry\
+          \ to get high quality graduates and technical talent</li> \n   <li>make\
+          \ sure businesses can still get skilled overseas employees (post-EU exit)</li>\
+          \ \n   <li>help businesses to get finance for export growth plans</li> \n\
+          \   <li>find <a href=\"https://www.globalscot.com/\">GlobalScots</a> or\
+          \ Trade Envoys who can offer businesses advice, support or introductions</li>\
+          \ \n   <li>help businesses find export opportunities by exploring ways to\
+          \ make sector data available</li> \n  </ul> \n  <p>You can find more information\
+          \ on Scotland’s engineering and advanced manufacturing sector in <a href=\"\
+          https://www.gov.scot/publications/scotland-a-trading-nation/\">A Trading\
+          \ Nation</a>.</p> \n </body>\n</html>"
+        /engineering-and-advanced-manufacturing.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 9805d931-c469-4b8d-a4a6-8e22fe608cf0
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /engineering-and-advanced-manufacturing-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 46360946-ddb6-47b5-8f90-01441ba25985
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /spain:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: d55dfa79-b6db-45e0-8101-31da828746c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+  /financial-and-business-services:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 10211c9a-601c-4142-beee-a7bfad97a27a
+    hippo:name: financial-and-business-services
+    hippo:versionHistory: 24a127e4-e6fe-4145-af10-fd07f87c4e1e
+    /financial-and-business-services[1]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 8cbd02a3-252c-4462-8008-0d8f0a5407ad
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:21.485+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:21.485+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: 0a800caa-d875-4675-84f2-7b11913b516d
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/financial-and-business-services/
+      publishing:reportingtags: []
+      publishing:seoTitle: Financial and business services
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Financial and business services
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"financial-and-business-services.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of paper and pens depicting the financial and business\
+          \ sector\"></p> \n  <p>In 2017, financial and business services made up\
+          \ around:</p> \n  <ul> \n   <li>10.3% of Scotland’s international exports\
+          \ (£3.4 billion)</li> \n   <li>27.1% of Scotland’s UK exports (£13.2 billion)</li>\
+          \ \n  </ul> \n  <p>Financial and business services covers a range of subsectors.\
+          \ This includes:</p> \n  <ul> \n   <li>business support</li> \n   <li>financial\
+          \ services</li> \n   <li>management consultancy</li> \n   <li>legal and\
+          \ accounting</li> \n   <li>insurance and pensions</li> \n  </ul> \n  <h2>How\
+          \ Scotland’s financial and business services exports have increased since\
+          \ 2002</h2> \n  <p><img src=\"financial-and-business-services-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s financial and business services exports\
+          \ increased to the rest of the UK and internationally between 2002 and 2017.\"\
+          ></p> \n  <p>Between 2002 and 2017 Scotland’s financial and business services\
+          \ exports increased:</p> \n  <ul> \n   <li>internationally from £1.6 billion\
+          \ to £3.4 billion</li> \n   <li>to the rest of the UK from £6 billion to\
+          \ £13.2 billion</li> \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a\
+          \ href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ financial and business services imports</h3> \n  <ul> \n   <li><a href=\"\
+          usa\">United States of America</a></li> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          ireland\">Ireland</a></li> \n   <li><a href=\"canada\">Canada</a></li> \n\
+          \  </ul> \n  <h3>Where Scotland’s currently exporting less than similar\
+          \ countries</h3> \n  <ul> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"france\">France</a></li> \n   <li><a href=\"netherlands\"\
+          >Netherlands</a></li> \n   <li><a href=\"switzerland\">Switzerland</a></li>\
+          \ \n   <li><a href=\"poland\">Poland</a></li> \n   <li><a href=\"belgium\"\
+          >Belgium</a></li> \n   <li><a href=\"sweden\">Sweden</a></li> \n   <li><a\
+          \ href=\"italy\">Italy</a></li> \n   <li>Japan</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <p>We’ll continue to work with the financial\
+          \ and business services sector to help increase exports. This will include\
+          \ working with businesses in the growing financial technologies sector.</p>\
+          \ \n  <p>You can find more information on Scotland’s financial and business\
+          \ services sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /financial-and-business-services.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 07fb0983-238b-4a9c-91e5-98312fa62d58
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /financial-and-business-services-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cc0fc59e-df3d-4171-82d0-09d1abf1187c
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /sweden:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8df290e8-6b52-4c08-8009-3035cd971d3e
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /financial-and-business-services[2]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 3be08080-4ec1-4dfc-a8bd-5d7d6a322512
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:21.485+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:21.664+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: 0a800caa-d875-4675-84f2-7b11913b516d
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/financial-and-business-services/
+      publishing:reportingtags: []
+      publishing:seoTitle: Financial and business services
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Financial and business services
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"financial-and-business-services.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of paper and pens depicting the financial and business\
+          \ sector\"></p> \n  <p>In 2017, financial and business services made up\
+          \ around:</p> \n  <ul> \n   <li>10.3% of Scotland’s international exports\
+          \ (£3.4 billion)</li> \n   <li>27.1% of Scotland’s UK exports (£13.2 billion)</li>\
+          \ \n  </ul> \n  <p>Financial and business services covers a range of subsectors.\
+          \ This includes:</p> \n  <ul> \n   <li>business support</li> \n   <li>financial\
+          \ services</li> \n   <li>management consultancy</li> \n   <li>legal and\
+          \ accounting</li> \n   <li>insurance and pensions</li> \n  </ul> \n  <h2>How\
+          \ Scotland’s financial and business services exports have increased since\
+          \ 2002</h2> \n  <p><img src=\"financial-and-business-services-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s financial and business services exports\
+          \ increased to the rest of the UK and internationally between 2002 and 2017.\"\
+          ></p> \n  <p>Between 2002 and 2017 Scotland’s financial and business services\
+          \ exports increased:</p> \n  <ul> \n   <li>internationally from £1.6 billion\
+          \ to £3.4 billion</li> \n   <li>to the rest of the UK from £6 billion to\
+          \ £13.2 billion</li> \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a\
+          \ href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ financial and business services imports</h3> \n  <ul> \n   <li><a href=\"\
+          usa\">United States of America</a></li> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          ireland\">Ireland</a></li> \n   <li><a href=\"canada\">Canada</a></li> \n\
+          \  </ul> \n  <h3>Where Scotland’s currently exporting less than similar\
+          \ countries</h3> \n  <ul> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"france\">France</a></li> \n   <li><a href=\"netherlands\"\
+          >Netherlands</a></li> \n   <li><a href=\"switzerland\">Switzerland</a></li>\
+          \ \n   <li><a href=\"poland\">Poland</a></li> \n   <li><a href=\"belgium\"\
+          >Belgium</a></li> \n   <li><a href=\"sweden\">Sweden</a></li> \n   <li><a\
+          \ href=\"italy\">Italy</a></li> \n   <li>Japan</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <p>We’ll continue to work with the financial\
+          \ and business services sector to help increase exports. This will include\
+          \ working with businesses in the growing financial technologies sector.</p>\
+          \ \n  <p>You can find more information on Scotland’s financial and business\
+          \ services sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /financial-and-business-services.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 07fb0983-238b-4a9c-91e5-98312fa62d58
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /financial-and-business-services-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cc0fc59e-df3d-4171-82d0-09d1abf1187c
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /sweden:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8df290e8-6b52-4c08-8009-3035cd971d3e
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /financial-and-business-services[3]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: b8ad9b06-250c-42fd-98d9-f5f99f6b73c5
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:21.485+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:21.664+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippostdpubwf:publicationDate: 2019-09-23T15:41:21.772+01:00
+      hippotranslation:id: 0a800caa-d875-4675-84f2-7b11913b516d
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/financial-and-business-services/
+      publishing:reportingtags: []
+      publishing:seoTitle: Financial and business services
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Financial and business services
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"financial-and-business-services.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of paper and pens depicting the financial and business\
+          \ sector\"></p> \n  <p>In 2017, financial and business services made up\
+          \ around:</p> \n  <ul> \n   <li>10.3% of Scotland’s international exports\
+          \ (£3.4 billion)</li> \n   <li>27.1% of Scotland’s UK exports (£13.2 billion)</li>\
+          \ \n  </ul> \n  <p>Financial and business services covers a range of subsectors.\
+          \ This includes:</p> \n  <ul> \n   <li>business support</li> \n   <li>financial\
+          \ services</li> \n   <li>management consultancy</li> \n   <li>legal and\
+          \ accounting</li> \n   <li>insurance and pensions</li> \n  </ul> \n  <h2>How\
+          \ Scotland’s financial and business services exports have increased since\
+          \ 2002</h2> \n  <p><img src=\"financial-and-business-services-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s financial and business services exports\
+          \ increased to the rest of the UK and internationally between 2002 and 2017.\"\
+          ></p> \n  <p>Between 2002 and 2017 Scotland’s financial and business services\
+          \ exports increased:</p> \n  <ul> \n   <li>internationally from £1.6 billion\
+          \ to £3.4 billion</li> \n   <li>to the rest of the UK from £6 billion to\
+          \ £13.2 billion</li> \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a\
+          \ href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ financial and business services imports</h3> \n  <ul> \n   <li><a href=\"\
+          usa\">United States of America</a></li> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          ireland\">Ireland</a></li> \n   <li><a href=\"canada\">Canada</a></li> \n\
+          \  </ul> \n  <h3>Where Scotland’s currently exporting less than similar\
+          \ countries</h3> \n  <ul> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"france\">France</a></li> \n   <li><a href=\"netherlands\"\
+          >Netherlands</a></li> \n   <li><a href=\"switzerland\">Switzerland</a></li>\
+          \ \n   <li><a href=\"poland\">Poland</a></li> \n   <li><a href=\"belgium\"\
+          >Belgium</a></li> \n   <li><a href=\"sweden\">Sweden</a></li> \n   <li><a\
+          \ href=\"italy\">Italy</a></li> \n   <li>Japan</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <p>We’ll continue to work with the financial\
+          \ and business services sector to help increase exports. This will include\
+          \ working with businesses in the growing financial technologies sector.</p>\
+          \ \n  <p>You can find more information on Scotland’s financial and business\
+          \ services sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /financial-and-business-services.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 07fb0983-238b-4a9c-91e5-98312fa62d58
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /financial-and-business-services-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cc0fc59e-df3d-4171-82d0-09d1abf1187c
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /sweden:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8df290e8-6b52-4c08-8009-3035cd971d3e
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+  /food-and-drink:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: e02ac18b-cf68-4a5c-998e-5184c4bafc07
+    hippo:name: food-and-drink
+    hippo:versionHistory: 41432957-8785-4e38-920d-177ea513d964
+    /food-and-drink[1]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 172292c8-6f58-4f95-99ec-0b0cffdf0a50
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:21.968+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:21.968+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: cace808c-e6ee-4cb3-84dc-9c7c7011ce4c
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/food-and-drink/
+      publishing:reportingtags: []
+      publishing:seoTitle: Food and drink
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Food and drink
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"food-and-drink.png/{_document}/hippogallery:original\"\
+          \ alt=\"An image of food and drink depicting the food and drink sector\"\
+          ></p> \n  <p>In 2017, food and drink made up:</p> \n  <ul> \n   <li>20%\
+          \ of Scotland’s international exports (£6 billion)</li> \n   <li>9% of Scotland’\
+          s UK exports (£4.5 billion)</li> \n  </ul> \n  <p>The food and drink sector\
+          \ covers a range of activities, such as:</p> \n  <ul> \n   <li>farming</li>\
+          \ \n   <li>fishing</li> \n   <li>aquaculture</li> \n   <li>making products,\
+          \ for example: smoked salmon, whisky</li> \n  </ul> \n  <h2>How Scotland’\
+          s food and drink exports have changed since 2013</h2> \n  <p><img src=\"\
+          food-and-drink-figure-1.jpg/{_document}/hippogallery:original\" alt=\"Graph\
+          \ showing how Scotland’s food and drink exports changed to the rest of the\
+          \ UK and internationally between 2013 and 2017.\"></p> \n  <p>Between 2013\
+          \ and 2018 Scotland’s food and drink exports:</p> \n  <ul> \n   <li>increased\
+          \ internationally from £5.4 billion to £6.3 billion</li> \n   <li>decreased\
+          \ to the rest of the UK from £4.6 billion to £4.5 billion</li> \n  </ul>\
+          \ \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ food and drink imports</h3> \n  <ul> \n   <li><a href=\"usa\">United States\
+          \ of America</a></li> \n   <li><a href=\"germany\">Germany</a></li> \n \
+          \  <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          china\">China</a></li> \n   <li><a href=\"canada\">Canada</a></li> \n  \
+          \ <li><a href=\"spain\">Spain</a></li> \n   <li>Japan</li> \n  </ul> \n\
+          \  <h3>Where Scotland’s currently exporting less than similar countries</h3>\
+          \ \n  <ul> \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a\
+          \ href=\"switzerland\">Switzerland</a></li> \n   <li><a href=\"norway\"\
+          >Norway</a></li> \n   <li><a href=\"poland\">Poland</a></li> \n   <li><a\
+          \ href=\"belgium\">Belgium</a></li> \n   <li><a href=\"china\">China</a></li>\
+          \ \n   <li><a href=\"italy\">Italy</a></li> \n   <li>Australia</li> \n \
+          \ </ul> \n  <h2>What we're going to do</h2> \n  <p>As part of the <a href=\"\
+          https://foodanddrink.scot/resources/publications/export-strategy/\">Scotland\
+          \ Food and Drink Export Plan</a>, the public sector and industry co-fund\
+          \ market specialists in 15 countries.</p> \n  <p>This helps to support:</p>\
+          \ \n  <ul> \n   <li>Scotland Food and Drink’s approach to exporting premium\
+          \ products in retail and food service</li> \n   <li>mentoring and matching\
+          \ companies through the <a href=\"https://foodanddrink.scot/resources/publications/export-collaboration-charter/\"\
+          >Export Collaboration Charter</a> and the First Minister’s Export Challenge</li>\
+          \ \n   <li>industry in making trade agreements</li> \n  </ul> \n  <p>You\
+          \ can find more information on Scotland’s food and drink sector in <a href=\"\
+          https://www.gov.scot/publications/scotland-a-trading-nation/\">A Trading\
+          \ Nation</a>.</p> \n </body>\n</html>"
+        /food-and-drink.png:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: be38d4d3-952c-400d-981a-05c17889f42a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /food-and-drink-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 37fcb958-4680-47ae-a6d9-3c2d62e7a309
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /spain:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: d55dfa79-b6db-45e0-8101-31da828746c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /norway:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f2a7a0db-b129-432b-a00a-5121bcabdaf4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /food-and-drink[2]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 758c5004-3b66-4549-b43f-b2e0979cf731
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:21.968+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:22.150+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: cace808c-e6ee-4cb3-84dc-9c7c7011ce4c
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/food-and-drink/
+      publishing:reportingtags: []
+      publishing:seoTitle: Food and drink
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Food and drink
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"food-and-drink.png/{_document}/hippogallery:original\"\
+          \ alt=\"An image of food and drink depicting the food and drink sector\"\
+          ></p> \n  <p>In 2017, food and drink made up:</p> \n  <ul> \n   <li>20%\
+          \ of Scotland’s international exports (£6 billion)</li> \n   <li>9% of Scotland’\
+          s UK exports (£4.5 billion)</li> \n  </ul> \n  <p>The food and drink sector\
+          \ covers a range of activities, such as:</p> \n  <ul> \n   <li>farming</li>\
+          \ \n   <li>fishing</li> \n   <li>aquaculture</li> \n   <li>making products,\
+          \ for example: smoked salmon, whisky</li> \n  </ul> \n  <h2>How Scotland’\
+          s food and drink exports have changed since 2013</h2> \n  <p><img src=\"\
+          food-and-drink-figure-1.jpg/{_document}/hippogallery:original\" alt=\"Graph\
+          \ showing how Scotland’s food and drink exports changed to the rest of the\
+          \ UK and internationally between 2013 and 2017.\"></p> \n  <p>Between 2013\
+          \ and 2018 Scotland’s food and drink exports:</p> \n  <ul> \n   <li>increased\
+          \ internationally from £5.4 billion to £6.3 billion</li> \n   <li>decreased\
+          \ to the rest of the UK from £4.6 billion to £4.5 billion</li> \n  </ul>\
+          \ \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ food and drink imports</h3> \n  <ul> \n   <li><a href=\"usa\">United States\
+          \ of America</a></li> \n   <li><a href=\"germany\">Germany</a></li> \n \
+          \  <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          china\">China</a></li> \n   <li><a href=\"canada\">Canada</a></li> \n  \
+          \ <li><a href=\"spain\">Spain</a></li> \n   <li>Japan</li> \n  </ul> \n\
+          \  <h3>Where Scotland’s currently exporting less than similar countries</h3>\
+          \ \n  <ul> \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a\
+          \ href=\"switzerland\">Switzerland</a></li> \n   <li><a href=\"norway\"\
+          >Norway</a></li> \n   <li><a href=\"poland\">Poland</a></li> \n   <li><a\
+          \ href=\"belgium\">Belgium</a></li> \n   <li><a href=\"china\">China</a></li>\
+          \ \n   <li><a href=\"italy\">Italy</a></li> \n   <li>Australia</li> \n \
+          \ </ul> \n  <h2>What we're going to do</h2> \n  <p>As part of the <a href=\"\
+          https://foodanddrink.scot/resources/publications/export-strategy/\">Scotland\
+          \ Food and Drink Export Plan</a>, the public sector and industry co-fund\
+          \ market specialists in 15 countries.</p> \n  <p>This helps to support:</p>\
+          \ \n  <ul> \n   <li>Scotland Food and Drink’s approach to exporting premium\
+          \ products in retail and food service</li> \n   <li>mentoring and matching\
+          \ companies through the <a href=\"https://foodanddrink.scot/resources/publications/export-collaboration-charter/\"\
+          >Export Collaboration Charter</a> and the First Minister’s Export Challenge</li>\
+          \ \n   <li>industry in making trade agreements</li> \n  </ul> \n  <p>You\
+          \ can find more information on Scotland’s food and drink sector in <a href=\"\
+          https://www.gov.scot/publications/scotland-a-trading-nation/\">A Trading\
+          \ Nation</a>.</p> \n </body>\n</html>"
+        /food-and-drink.png:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: be38d4d3-952c-400d-981a-05c17889f42a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /food-and-drink-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 37fcb958-4680-47ae-a6d9-3c2d62e7a309
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /spain:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: d55dfa79-b6db-45e0-8101-31da828746c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /norway:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f2a7a0db-b129-432b-a00a-5121bcabdaf4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /food-and-drink[3]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 90381ea9-2cdf-47f0-ba01-d98510851ebd
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:21.968+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:22.150+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippostdpubwf:publicationDate: 2019-09-23T15:41:22.260+01:00
+      hippotranslation:id: cace808c-e6ee-4cb3-84dc-9c7c7011ce4c
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/food-and-drink/
+      publishing:reportingtags: []
+      publishing:seoTitle: Food and drink
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Food and drink
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"food-and-drink.png/{_document}/hippogallery:original\"\
+          \ alt=\"An image of food and drink depicting the food and drink sector\"\
+          ></p> \n  <p>In 2017, food and drink made up:</p> \n  <ul> \n   <li>20%\
+          \ of Scotland’s international exports (£6 billion)</li> \n   <li>9% of Scotland’\
+          s UK exports (£4.5 billion)</li> \n  </ul> \n  <p>The food and drink sector\
+          \ covers a range of activities, such as:</p> \n  <ul> \n   <li>farming</li>\
+          \ \n   <li>fishing</li> \n   <li>aquaculture</li> \n   <li>making products,\
+          \ for example: smoked salmon, whisky</li> \n  </ul> \n  <h2>How Scotland’\
+          s food and drink exports have changed since 2013</h2> \n  <p><img src=\"\
+          food-and-drink-figure-1.jpg/{_document}/hippogallery:original\" alt=\"Graph\
+          \ showing how Scotland’s food and drink exports changed to the rest of the\
+          \ UK and internationally between 2013 and 2017.\"></p> \n  <p>Between 2013\
+          \ and 2018 Scotland’s food and drink exports:</p> \n  <ul> \n   <li>increased\
+          \ internationally from £5.4 billion to £6.3 billion</li> \n   <li>decreased\
+          \ to the rest of the UK from £4.6 billion to £4.5 billion</li> \n  </ul>\
+          \ \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ food and drink imports</h3> \n  <ul> \n   <li><a href=\"usa\">United States\
+          \ of America</a></li> \n   <li><a href=\"germany\">Germany</a></li> \n \
+          \  <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          china\">China</a></li> \n   <li><a href=\"canada\">Canada</a></li> \n  \
+          \ <li><a href=\"spain\">Spain</a></li> \n   <li>Japan</li> \n  </ul> \n\
+          \  <h3>Where Scotland’s currently exporting less than similar countries</h3>\
+          \ \n  <ul> \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a\
+          \ href=\"switzerland\">Switzerland</a></li> \n   <li><a href=\"norway\"\
+          >Norway</a></li> \n   <li><a href=\"poland\">Poland</a></li> \n   <li><a\
+          \ href=\"belgium\">Belgium</a></li> \n   <li><a href=\"china\">China</a></li>\
+          \ \n   <li><a href=\"italy\">Italy</a></li> \n   <li>Australia</li> \n \
+          \ </ul> \n  <h2>What we're going to do</h2> \n  <p>As part of the <a href=\"\
+          https://foodanddrink.scot/resources/publications/export-strategy/\">Scotland\
+          \ Food and Drink Export Plan</a>, the public sector and industry co-fund\
+          \ market specialists in 15 countries.</p> \n  <p>This helps to support:</p>\
+          \ \n  <ul> \n   <li>Scotland Food and Drink’s approach to exporting premium\
+          \ products in retail and food service</li> \n   <li>mentoring and matching\
+          \ companies through the <a href=\"https://foodanddrink.scot/resources/publications/export-collaboration-charter/\"\
+          >Export Collaboration Charter</a> and the First Minister’s Export Challenge</li>\
+          \ \n   <li>industry in making trade agreements</li> \n  </ul> \n  <p>You\
+          \ can find more information on Scotland’s food and drink sector in <a href=\"\
+          https://www.gov.scot/publications/scotland-a-trading-nation/\">A Trading\
+          \ Nation</a>.</p> \n </body>\n</html>"
+        /food-and-drink.png:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: be38d4d3-952c-400d-981a-05c17889f42a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /food-and-drink-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 37fcb958-4680-47ae-a6d9-3c2d62e7a309
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /spain:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: d55dfa79-b6db-45e0-8101-31da828746c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /norway:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f2a7a0db-b129-432b-a00a-5121bcabdaf4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+  /life-and-chemical-sciences:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: f6d9427c-6173-46d8-adc8-35cf1a08b7dc
+    hippo:name: life-and-chemical-sciences
+    hippo:versionHistory: f67187cf-9d6b-476a-8435-a219fe659cd7
+    /life-and-chemical-sciences[1]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: f2e958ff-f721-4c5b-a322-d6139737e894
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:22.459+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:22.459+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: 1b0c7fe6-2abd-40c2-aacd-f85691d149e7
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/life-and-chemical-sciences/
+      publishing:reportingtags: []
+      publishing:seoTitle: Life and chemical sciences
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Life and chemical sciences
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"life-and-chemical-sciences.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of test tubes depicting the life and chemical sciences\
+          \ sector\"></p> \n  <p>In 2017, life sciences made up 4.8% of Scotland’\
+          s international exports (£1.57 billion). It also made up 0.7% of its UK\
+          \ exports (£360 million).</p> \n  <p>Chemical sciences made up 9.7% of Scotland’\
+          s international exports (£3.2 billion). It also made up 2.7% of its UK exports\
+          \ (£1.3 billion).</p> \n  <p>Life sciences covers the manufacture of:</p>\
+          \ \n  <ul> \n   <li>basic pharmaceutical products and preparations</li>\
+          \ \n   <li>medical/dental instruments and supplies</li> \n  </ul> \n  <p>It\
+          \ also covers scientific research, development and services.</p> \n  <p>Chemical\
+          \ sciences covers the manufacture of:</p> \n  <ul> \n   <li>coke and refined\
+          \ petroleum products</li> \n   <li>chemicals and chemical products</li>\
+          \ \n  </ul> \n  <h2>How Scotland’s life sciences exports have increased\
+          \ since 2002</h2> \n  <p><img src=\"life-and-chemical-sciences-figure-3.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s life sciences exports increased to\
+          \ the rest of the UK and internationally between 2002 and 2017.\"></p> \n\
+          \  <p>Between 2002 and 2017 Scotland’s life sciences exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £750 million to £1.57 billion</li>\
+          \ \n   <li>to the rest of the UK from £260 million to £360 million</li>\
+          \ \n  </ul> \n  <h2>How Scotland’s chemical sciences exports have increased\
+          \ since 2002</h2> \n  <p><img src=\"life-and-chemical-sciences-figure-2.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s chemical sciences exports increased\
+          \ to the rest of the UK and internationally between 2002 and 2017.\"></p>\
+          \ \n  <p>Between 2002 and 2017 Scotland’s chemical sciences exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £2 billion to £3.2 billion</li>\
+          \ \n   <li>to the rest of the UK from £600 million to £1.3 billion</li>\
+          \ \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Life sciences</h3> \n  <p>Countries where there’s a\
+          \ large or growing demand for life sciences imports:</p> \n  <ul> \n   <li><a\
+          \ href=\"usa\">United States of America</a></li> \n   <li><a href=\"germany\"\
+          >Germany</a></li> \n   <li><a href=\"netherlands\">Netherlands</a></li>\
+          \ \n   <li><a href=\"switzerland\">Switzerland</a></li> \n   <li><a href=\"\
+          china\">China</a></li> \n   <li><a href=\"ireland\">Ireland</a></li> \n\
+          \   <li><a href=\"italy\">Italy</a></li> \n   <li>Japan</li> \n  </ul> \n\
+          \  <p>Where Scotland’s currently exporting less than similar countries:</p>\
+          \ \n  <ul> \n   <li><a href=\"usa\">United States of America</a></li> \n\
+          \   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"france\"\
+          >France</a></li> \n   <li><a href=\"switzerland\">Switzerland</a></li> \n\
+          \   <li><a href=\"poland\">Poland</a></li> \n   <li><a href=\"belgium\"\
+          >Belgium</a></li> \n   <li><a href=\"china\">China</a></li> \n   <li><a\
+          \ href=\"denmark\">Denmark</a></li> \n   <li><a href=\"canada\">Canada</a></li>\
+          \ \n   <li>South Korea</li> \n  </ul> \n  <h3>Chemical sciences</h3> \n\
+          \  <p>There’s large or growing demand for chemical sciences imports to China.</p>\
+          \ \n  <p>Where Scotland’s currently exporting less than similar countries:</p>\
+          \ \n  <ul> \n   <li><a href=\"usa\">United States of America</a></li> \n\
+          \   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"france\"\
+          >France</a></li> \n   <li><a href=\"netherlands\">Netherlands</a></li> \n\
+          \   <li><a href=\"belgium\">Belgium</a></li> \n   <li><a href=\"ireland\"\
+          >Ireland</a></li> \n   <li><a href=\"denmark\">Denmark</a></li> \n   <li><a\
+          \ href=\"canada\">Canada</a></li> \n   <li>Spain</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <p>To help life and chemical sciences exports,\
+          \ we'll:</p> \n  <ul> \n   <li>work with industry bodies and the enterprise\
+          \ agencies to create market development plans for selected sub-sectors and\
+          \ countries</li> \n   <li>use Ministerial visits to build relationships\
+          \ with parent companies of key Scottish-based businesses</li> \n   <li>develop\
+          \ the international leadership and sales skills of businesses, helping them\
+          \ take advantage of export opportunities</li> \n   <li>find <a href=\"https://www.globalscot.com/\"\
+          >GlobalScots</a> or Trade Envoys who can offer businesses advice, support\
+          \ and introductions</li> \n  </ul> \n  <p>You can find more information\
+          \ on Scotland’s life and chemical sciences sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /life-and-chemical-sciences.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a5df84da-8f9a-4faf-834b-a9ba55852b03
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /life-and-chemical-sciences-figure-3.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f0c09964-7903-441d-8d4e-546d0e660cee
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /life-and-chemical-sciences-figure-2.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 9d1bfd32-51ba-42bc-a812-d3fcc08e44ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /denmark:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e6ea16ad-b526-4fcc-bb6e-85131a840595
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /life-and-chemical-sciences[2]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: e1f21a35-9b98-49d4-8fba-978133787d9e
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:22.459+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:22.626+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: 1b0c7fe6-2abd-40c2-aacd-f85691d149e7
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/life-and-chemical-sciences/
+      publishing:reportingtags: []
+      publishing:seoTitle: Life and chemical sciences
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Life and chemical sciences
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"life-and-chemical-sciences.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of test tubes depicting the life and chemical sciences\
+          \ sector\"></p> \n  <p>In 2017, life sciences made up 4.8% of Scotland’\
+          s international exports (£1.57 billion). It also made up 0.7% of its UK\
+          \ exports (£360 million).</p> \n  <p>Chemical sciences made up 9.7% of Scotland’\
+          s international exports (£3.2 billion). It also made up 2.7% of its UK exports\
+          \ (£1.3 billion).</p> \n  <p>Life sciences covers the manufacture of:</p>\
+          \ \n  <ul> \n   <li>basic pharmaceutical products and preparations</li>\
+          \ \n   <li>medical/dental instruments and supplies</li> \n  </ul> \n  <p>It\
+          \ also covers scientific research, development and services.</p> \n  <p>Chemical\
+          \ sciences covers the manufacture of:</p> \n  <ul> \n   <li>coke and refined\
+          \ petroleum products</li> \n   <li>chemicals and chemical products</li>\
+          \ \n  </ul> \n  <h2>How Scotland’s life sciences exports have increased\
+          \ since 2002</h2> \n  <p><img src=\"life-and-chemical-sciences-figure-3.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s life sciences exports increased to\
+          \ the rest of the UK and internationally between 2002 and 2017.\"></p> \n\
+          \  <p>Between 2002 and 2017 Scotland’s life sciences exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £750 million to £1.57 billion</li>\
+          \ \n   <li>to the rest of the UK from £260 million to £360 million</li>\
+          \ \n  </ul> \n  <h2>How Scotland’s chemical sciences exports have increased\
+          \ since 2002</h2> \n  <p><img src=\"life-and-chemical-sciences-figure-2.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s chemical sciences exports increased\
+          \ to the rest of the UK and internationally between 2002 and 2017.\"></p>\
+          \ \n  <p>Between 2002 and 2017 Scotland’s chemical sciences exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £2 billion to £3.2 billion</li>\
+          \ \n   <li>to the rest of the UK from £600 million to £1.3 billion</li>\
+          \ \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Life sciences</h3> \n  <p>Countries where there’s a\
+          \ large or growing demand for life sciences imports:</p> \n  <ul> \n   <li><a\
+          \ href=\"usa\">United States of America</a></li> \n   <li><a href=\"germany\"\
+          >Germany</a></li> \n   <li><a href=\"netherlands\">Netherlands</a></li>\
+          \ \n   <li><a href=\"switzerland\">Switzerland</a></li> \n   <li><a href=\"\
+          china\">China</a></li> \n   <li><a href=\"ireland\">Ireland</a></li> \n\
+          \   <li><a href=\"italy\">Italy</a></li> \n   <li>Japan</li> \n  </ul> \n\
+          \  <p>Where Scotland’s currently exporting less than similar countries:</p>\
+          \ \n  <ul> \n   <li><a href=\"usa\">United States of America</a></li> \n\
+          \   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"france\"\
+          >France</a></li> \n   <li><a href=\"switzerland\">Switzerland</a></li> \n\
+          \   <li><a href=\"poland\">Poland</a></li> \n   <li><a href=\"belgium\"\
+          >Belgium</a></li> \n   <li><a href=\"china\">China</a></li> \n   <li><a\
+          \ href=\"denmark\">Denmark</a></li> \n   <li><a href=\"canada\">Canada</a></li>\
+          \ \n   <li>South Korea</li> \n  </ul> \n  <h3>Chemical sciences</h3> \n\
+          \  <p>There’s large or growing demand for chemical sciences imports to China.</p>\
+          \ \n  <p>Where Scotland’s currently exporting less than similar countries:</p>\
+          \ \n  <ul> \n   <li><a href=\"usa\">United States of America</a></li> \n\
+          \   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"france\"\
+          >France</a></li> \n   <li><a href=\"netherlands\">Netherlands</a></li> \n\
+          \   <li><a href=\"belgium\">Belgium</a></li> \n   <li><a href=\"ireland\"\
+          >Ireland</a></li> \n   <li><a href=\"denmark\">Denmark</a></li> \n   <li><a\
+          \ href=\"canada\">Canada</a></li> \n   <li>Spain</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <p>To help life and chemical sciences exports,\
+          \ we'll:</p> \n  <ul> \n   <li>work with industry bodies and the enterprise\
+          \ agencies to create market development plans for selected sub-sectors and\
+          \ countries</li> \n   <li>use Ministerial visits to build relationships\
+          \ with parent companies of key Scottish-based businesses</li> \n   <li>develop\
+          \ the international leadership and sales skills of businesses, helping them\
+          \ take advantage of export opportunities</li> \n   <li>find <a href=\"https://www.globalscot.com/\"\
+          >GlobalScots</a> or Trade Envoys who can offer businesses advice, support\
+          \ and introductions</li> \n  </ul> \n  <p>You can find more information\
+          \ on Scotland’s life and chemical sciences sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /life-and-chemical-sciences.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a5df84da-8f9a-4faf-834b-a9ba55852b03
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /life-and-chemical-sciences-figure-3.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f0c09964-7903-441d-8d4e-546d0e660cee
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /life-and-chemical-sciences-figure-2.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 9d1bfd32-51ba-42bc-a812-d3fcc08e44ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /denmark:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e6ea16ad-b526-4fcc-bb6e-85131a840595
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /life-and-chemical-sciences[3]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 8a9d9144-1a9b-4c33-83eb-08974000061f
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:22.459+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:22.626+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippostdpubwf:publicationDate: 2019-09-23T15:41:22.726+01:00
+      hippotranslation:id: 1b0c7fe6-2abd-40c2-aacd-f85691d149e7
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/life-and-chemical-sciences/
+      publishing:reportingtags: []
+      publishing:seoTitle: Life and chemical sciences
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Life and chemical sciences
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"life-and-chemical-sciences.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of test tubes depicting the life and chemical sciences\
+          \ sector\"></p> \n  <p>In 2017, life sciences made up 4.8% of Scotland’\
+          s international exports (£1.57 billion). It also made up 0.7% of its UK\
+          \ exports (£360 million).</p> \n  <p>Chemical sciences made up 9.7% of Scotland’\
+          s international exports (£3.2 billion). It also made up 2.7% of its UK exports\
+          \ (£1.3 billion).</p> \n  <p>Life sciences covers the manufacture of:</p>\
+          \ \n  <ul> \n   <li>basic pharmaceutical products and preparations</li>\
+          \ \n   <li>medical/dental instruments and supplies</li> \n  </ul> \n  <p>It\
+          \ also covers scientific research, development and services.</p> \n  <p>Chemical\
+          \ sciences covers the manufacture of:</p> \n  <ul> \n   <li>coke and refined\
+          \ petroleum products</li> \n   <li>chemicals and chemical products</li>\
+          \ \n  </ul> \n  <h2>How Scotland’s life sciences exports have increased\
+          \ since 2002</h2> \n  <p><img src=\"life-and-chemical-sciences-figure-3.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s life sciences exports increased to\
+          \ the rest of the UK and internationally between 2002 and 2017.\"></p> \n\
+          \  <p>Between 2002 and 2017 Scotland’s life sciences exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £750 million to £1.57 billion</li>\
+          \ \n   <li>to the rest of the UK from £260 million to £360 million</li>\
+          \ \n  </ul> \n  <h2>How Scotland’s chemical sciences exports have increased\
+          \ since 2002</h2> \n  <p><img src=\"life-and-chemical-sciences-figure-2.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s chemical sciences exports increased\
+          \ to the rest of the UK and internationally between 2002 and 2017.\"></p>\
+          \ \n  <p>Between 2002 and 2017 Scotland’s chemical sciences exports increased:</p>\
+          \ \n  <ul> \n   <li>internationally from £2 billion to £3.2 billion</li>\
+          \ \n   <li>to the rest of the UK from £600 million to £1.3 billion</li>\
+          \ \n  </ul> \n  <h2>Where we can sell more</h2> \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Life sciences</h3> \n  <p>Countries where there’s a\
+          \ large or growing demand for life sciences imports:</p> \n  <ul> \n   <li><a\
+          \ href=\"usa\">United States of America</a></li> \n   <li><a href=\"germany\"\
+          >Germany</a></li> \n   <li><a href=\"netherlands\">Netherlands</a></li>\
+          \ \n   <li><a href=\"switzerland\">Switzerland</a></li> \n   <li><a href=\"\
+          china\">China</a></li> \n   <li><a href=\"ireland\">Ireland</a></li> \n\
+          \   <li><a href=\"italy\">Italy</a></li> \n   <li>Japan</li> \n  </ul> \n\
+          \  <p>Where Scotland’s currently exporting less than similar countries:</p>\
+          \ \n  <ul> \n   <li><a href=\"usa\">United States of America</a></li> \n\
+          \   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"france\"\
+          >France</a></li> \n   <li><a href=\"switzerland\">Switzerland</a></li> \n\
+          \   <li><a href=\"poland\">Poland</a></li> \n   <li><a href=\"belgium\"\
+          >Belgium</a></li> \n   <li><a href=\"china\">China</a></li> \n   <li><a\
+          \ href=\"denmark\">Denmark</a></li> \n   <li><a href=\"canada\">Canada</a></li>\
+          \ \n   <li>South Korea</li> \n  </ul> \n  <h3>Chemical sciences</h3> \n\
+          \  <p>There’s large or growing demand for chemical sciences imports to China.</p>\
+          \ \n  <p>Where Scotland’s currently exporting less than similar countries:</p>\
+          \ \n  <ul> \n   <li><a href=\"usa\">United States of America</a></li> \n\
+          \   <li><a href=\"germany\">Germany</a></li> \n   <li><a href=\"france\"\
+          >France</a></li> \n   <li><a href=\"netherlands\">Netherlands</a></li> \n\
+          \   <li><a href=\"belgium\">Belgium</a></li> \n   <li><a href=\"ireland\"\
+          >Ireland</a></li> \n   <li><a href=\"denmark\">Denmark</a></li> \n   <li><a\
+          \ href=\"canada\">Canada</a></li> \n   <li>Spain</li> \n  </ul> \n  <h2>What\
+          \ we're going to do</h2> \n  <p>To help life and chemical sciences exports,\
+          \ we'll:</p> \n  <ul> \n   <li>work with industry bodies and the enterprise\
+          \ agencies to create market development plans for selected sub-sectors and\
+          \ countries</li> \n   <li>use Ministerial visits to build relationships\
+          \ with parent companies of key Scottish-based businesses</li> \n   <li>develop\
+          \ the international leadership and sales skills of businesses, helping them\
+          \ take advantage of export opportunities</li> \n   <li>find <a href=\"https://www.globalscot.com/\"\
+          >GlobalScots</a> or Trade Envoys who can offer businesses advice, support\
+          \ and introductions</li> \n  </ul> \n  <p>You can find more information\
+          \ on Scotland’s life and chemical sciences sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /life-and-chemical-sciences.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a5df84da-8f9a-4faf-834b-a9ba55852b03
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /life-and-chemical-sciences-figure-3.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f0c09964-7903-441d-8d4e-546d0e660cee
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /life-and-chemical-sciences-figure-2.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 9d1bfd32-51ba-42bc-a812-d3fcc08e44ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /italy:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: adba48ed-73a1-4028-8f47-552ea8a4dac1
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /poland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e7b001fd-3951-4d8c-a778-5907418ce265
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /belgium:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 47c8e6db-a301-4930-80ed-33a9bc1e26f5
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /denmark:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e6ea16ad-b526-4fcc-bb6e-85131a840595
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /canada:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: a079cbb3-e32c-4f42-a511-307923f5ffd4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+  /technology-digital-and-media:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 6541ac05-3fe3-4a23-9292-37dc750c4118
+    hippo:name: technology-digital-and-media
+    hippo:versionHistory: 27d8d358-0e3d-4694-bc68-ef95a16a966a
+    /technology-digital-and-media[1]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: d324b20f-2a90-47aa-9970-a0e799793b3b
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:22.932+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:22.932+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: e754a5dd-aaf5-4145-8683-ece9fb4a5cc8
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/technology-digital-and-media/
+      publishing:reportingtags: []
+      publishing:seoTitle: Technology, digital and media
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Technology, digital and media
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"technology-software-and-communications.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of code depicting the technology sector\"></p> \n  <p>In\
+          \ 2017, technology, digital and media made up:</p> \n  <ul> \n   <li>10.3%\
+          \ of Scotland’s international exports (£3.3 billion)</li> \n   <li>6.3%\
+          \ of Scotland’s UK exports (£3.1 billion)</li> \n  </ul> \n  <p>Technology,\
+          \ digital and media covers:</p> \n  <ul> \n   <li>the manufacture of computer,\
+          \ electronic and optical products</li> \n   <li>computer programming and\
+          \ consultancy</li> \n   <li>information technology (IT) and telecommunications</li>\
+          \ \n   <li>media</li> \n  </ul> \n  <h2>How Scotland’s technology, digital\
+          \ and media exports have changed since 2002</h2> \n  <p><img src=\"technology-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s technology, digital and media exports\
+          \ to the rest of the UK and internationally changed between 2002 and 2017.\"\
+          ></p> \n  <p>Between 2002 and 2017 Scotland’s technology, digital and media\
+          \ exports:</p> \n  <ul> \n   <li>decreased internationally from £5.9 billion\
+          \ to £3.3 billion</li> \n   <li>increased to the rest of the UK from £2.3\
+          \ billion to £3.1 billion</li> \n  </ul> \n  <div class=\"ds_information-text\"\
+          > \n   <span class=\"ds_information-text__icon\" aria-hidden=\"true\">i</span>\
+          \ \n   <span class=\"ds_information-text__text\"> <span class=\"visually-hidden\
+          \  hidden\">Information:</span> International exports in this sector decreased\
+          \ between 2002 and 2007. This was due to a decline in Scotland’s electronics\
+          \ manufacturing industry. </span> \n  </div> \n  <h2>Where we can sell more</h2>\
+          \ \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ digital, technology and media imports</h3> \n  <ul> \n   <li><a href=\"\
+          usa\">United States of America</a></li> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"china\">China</a></li> \n   <li>Japan</li> \n   <li>Mexico</li>\
+          \ \n   <li>Singapore</li> \n   <li>South Korea</li> \n  </ul> \n  <h3>Where\
+          \ Scotland’s currently exporting less than similar countries</h3> \n  <ul>\
+          \ \n   <li><a href=\"usa\">United States of America</a></li> \n   <li><a\
+          \ href=\"germany\">Germany</a></li> \n   <li><a href=\"france\">France</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          switzerland\">Switzerland</a></li> \n   <li><a href=\"norway\">Norway</a></li>\
+          \ \n   <li><a href=\"ireland\">Ireland</a></li> \n   <li>Japan</li> \n \
+          \  <li>Australia</li> \n   <li>India</li> \n  </ul> \n  <h2>What we're going\
+          \ to do</h2> \n  <p>To help technology, digital and media exports, we’ll:</p>\
+          \ \n  <ul> \n   <li>work with industry bodies and the enterprise agencies\
+          \ to create market development plans for selected sub-sectors and countries</li>\
+          \ \n   <li>improve access to high quality graduates and technical talent</li>\
+          \ \n   <li>make sure businesses can still get skilled overseas employees\
+          \ (post-EU exit)</li> \n   <li>help businesses to get finance for export\
+          \ growth plans</li> \n   <li>find <a href=\"https://www.globalscot.com/\"\
+          >GlobalScots</a> or Trade Envoys who can help businesses with advice, support\
+          \ or introductions</li> \n  </ul> \n  <p>You can find more information on\
+          \ Scotland’s technology, digital and media sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /technology-software-and-communications.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 5732adda-6b2f-4816-96ba-d98fd39486c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /technology-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 43b7633c-ac86-4bd8-b782-571d32c89e37
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /norway:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f2a7a0db-b129-432b-a00a-5121bcabdaf4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /technology-digital-and-media[2]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: 461c8733-97b8-48f1-965f-200889bbbc97
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:22.932+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:23.113+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippotranslation:id: e754a5dd-aaf5-4145-8683-ece9fb4a5cc8
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/technology-digital-and-media/
+      publishing:reportingtags: []
+      publishing:seoTitle: Technology, digital and media
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Technology, digital and media
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"technology-software-and-communications.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of code depicting the technology sector\"></p> \n  <p>In\
+          \ 2017, technology, digital and media made up:</p> \n  <ul> \n   <li>10.3%\
+          \ of Scotland’s international exports (£3.3 billion)</li> \n   <li>6.3%\
+          \ of Scotland’s UK exports (£3.1 billion)</li> \n  </ul> \n  <p>Technology,\
+          \ digital and media covers:</p> \n  <ul> \n   <li>the manufacture of computer,\
+          \ electronic and optical products</li> \n   <li>computer programming and\
+          \ consultancy</li> \n   <li>information technology (IT) and telecommunications</li>\
+          \ \n   <li>media</li> \n  </ul> \n  <h2>How Scotland’s technology, digital\
+          \ and media exports have changed since 2002</h2> \n  <p><img src=\"technology-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s technology, digital and media exports\
+          \ to the rest of the UK and internationally changed between 2002 and 2017.\"\
+          ></p> \n  <p>Between 2002 and 2017 Scotland’s technology, digital and media\
+          \ exports:</p> \n  <ul> \n   <li>decreased internationally from £5.9 billion\
+          \ to £3.3 billion</li> \n   <li>increased to the rest of the UK from £2.3\
+          \ billion to £3.1 billion</li> \n  </ul> \n  <div class=\"ds_information-text\"\
+          > \n   <span class=\"ds_information-text__icon\" aria-hidden=\"true\">i</span>\
+          \ \n   <span class=\"ds_information-text__text\"> <span class=\"visually-hidden\
+          \  hidden\">Information:</span> International exports in this sector decreased\
+          \ between 2002 and 2007. This was due to a decline in Scotland’s electronics\
+          \ manufacturing industry. </span> \n  </div> \n  <h2>Where we can sell more</h2>\
+          \ \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ digital, technology and media imports</h3> \n  <ul> \n   <li><a href=\"\
+          usa\">United States of America</a></li> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"china\">China</a></li> \n   <li>Japan</li> \n   <li>Mexico</li>\
+          \ \n   <li>Singapore</li> \n   <li>South Korea</li> \n  </ul> \n  <h3>Where\
+          \ Scotland’s currently exporting less than similar countries</h3> \n  <ul>\
+          \ \n   <li><a href=\"usa\">United States of America</a></li> \n   <li><a\
+          \ href=\"germany\">Germany</a></li> \n   <li><a href=\"france\">France</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          switzerland\">Switzerland</a></li> \n   <li><a href=\"norway\">Norway</a></li>\
+          \ \n   <li><a href=\"ireland\">Ireland</a></li> \n   <li>Japan</li> \n \
+          \  <li>Australia</li> \n   <li>India</li> \n  </ul> \n  <h2>What we're going\
+          \ to do</h2> \n  <p>To help technology, digital and media exports, we’ll:</p>\
+          \ \n  <ul> \n   <li>work with industry bodies and the enterprise agencies\
+          \ to create market development plans for selected sub-sectors and countries</li>\
+          \ \n   <li>improve access to high quality graduates and technical talent</li>\
+          \ \n   <li>make sure businesses can still get skilled overseas employees\
+          \ (post-EU exit)</li> \n   <li>help businesses to get finance for export\
+          \ growth plans</li> \n   <li>find <a href=\"https://www.globalscot.com/\"\
+          >GlobalScots</a> or Trade Envoys who can help businesses with advice, support\
+          \ or introductions</li> \n  </ul> \n  <p>You can find more information on\
+          \ Scotland’s technology, digital and media sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /technology-software-and-communications.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 5732adda-6b2f-4816-96ba-d98fd39486c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /technology-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 43b7633c-ac86-4bd8-b782-571d32c89e37
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /norway:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f2a7a0db-b129-432b-a00a-5121bcabdaf4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+    /technology-digital-and-media[3]:
+      jcr:primaryType: publishing:article
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 1fae7f5f-45b2-4016-afbf-5954ff17afb5
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: system
+      hippostdpubwf:creationDate: 2019-09-23T15:41:22.932+01:00
+      hippostdpubwf:lastModificationDate: 2019-09-23T15:41:23.113+01:00
+      hippostdpubwf:lastModifiedBy: system
+      hippostdpubwf:publicationDate: 2019-09-23T15:41:23.209+01:00
+      hippotranslation:id: e754a5dd-aaf5-4145-8683-ece9fb4a5cc8
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: 'Warning: missing summary.'
+      publishing:permalink: /sectors/technology-digital-and-media/
+      publishing:reportingtags: []
+      publishing:seoTitle: Technology, digital and media
+      publishing:summary: 'Warning: missing summary.'
+      publishing:title: Technology, digital and media
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: "<html>\n <head></head>\n <body>\n  <p><img src=\"technology-software-and-communications.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"An image of code depicting the technology sector\"></p> \n  <p>In\
+          \ 2017, technology, digital and media made up:</p> \n  <ul> \n   <li>10.3%\
+          \ of Scotland’s international exports (£3.3 billion)</li> \n   <li>6.3%\
+          \ of Scotland’s UK exports (£3.1 billion)</li> \n  </ul> \n  <p>Technology,\
+          \ digital and media covers:</p> \n  <ul> \n   <li>the manufacture of computer,\
+          \ electronic and optical products</li> \n   <li>computer programming and\
+          \ consultancy</li> \n   <li>information technology (IT) and telecommunications</li>\
+          \ \n   <li>media</li> \n  </ul> \n  <h2>How Scotland’s technology, digital\
+          \ and media exports have changed since 2002</h2> \n  <p><img src=\"technology-figure-1.jpg/{_document}/hippogallery:original\"\
+          \ alt=\"Graph showing how Scotland’s technology, digital and media exports\
+          \ to the rest of the UK and internationally changed between 2002 and 2017.\"\
+          ></p> \n  <p>Between 2002 and 2017 Scotland’s technology, digital and media\
+          \ exports:</p> \n  <ul> \n   <li>decreased internationally from £5.9 billion\
+          \ to £3.3 billion</li> \n   <li>increased to the rest of the UK from £2.3\
+          \ billion to £3.1 billion</li> \n  </ul> \n  <div class=\"ds_information-text\"\
+          > \n   <span class=\"ds_information-text__icon\" aria-hidden=\"true\">i</span>\
+          \ \n   <span class=\"ds_information-text__text\"> <span class=\"visually-hidden\
+          \  hidden\">Information:</span> International exports in this sector decreased\
+          \ between 2002 and 2007. This was due to a decline in Scotland’s electronics\
+          \ manufacturing industry. </span> \n  </div> \n  <h2>Where we can sell more</h2>\
+          \ \n  <p><a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a> used evidence to work out <a href=\"where-we-could-sell-more\"\
+          >where Scotland could sell the most in future</a>.</p> \n  <p>This evidence\
+          \ shows where:</p> \n  <ul> \n   <li>there’s a large or growing demand for\
+          \ imports</li> \n   <li>Scotland’s exporting less than other, similar countries</li>\
+          \ \n  </ul> \n  <div class=\"ds_information-text\"> \n   <span class=\"\
+          ds_information-text__icon\" aria-hidden=\"true\">i</span> \n   <span class=\"\
+          ds_information-text__text\"> <span class=\"visually-hidden  hidden\">Information:</span>\
+          \ The similar countries are Finland, Norway, Denmark and Ireland. </span>\
+          \ \n  </div> \n  <h3>Countries where there’s a large or growing demand for\
+          \ digital, technology and media imports</h3> \n  <ul> \n   <li><a href=\"\
+          usa\">United States of America</a></li> \n   <li><a href=\"germany\">Germany</a></li>\
+          \ \n   <li><a href=\"china\">China</a></li> \n   <li>Japan</li> \n   <li>Mexico</li>\
+          \ \n   <li>Singapore</li> \n   <li>South Korea</li> \n  </ul> \n  <h3>Where\
+          \ Scotland’s currently exporting less than similar countries</h3> \n  <ul>\
+          \ \n   <li><a href=\"usa\">United States of America</a></li> \n   <li><a\
+          \ href=\"germany\">Germany</a></li> \n   <li><a href=\"france\">France</a></li>\
+          \ \n   <li><a href=\"netherlands\">Netherlands</a></li> \n   <li><a href=\"\
+          switzerland\">Switzerland</a></li> \n   <li><a href=\"norway\">Norway</a></li>\
+          \ \n   <li><a href=\"ireland\">Ireland</a></li> \n   <li>Japan</li> \n \
+          \  <li>Australia</li> \n   <li>India</li> \n  </ul> \n  <h2>What we're going\
+          \ to do</h2> \n  <p>To help technology, digital and media exports, we’ll:</p>\
+          \ \n  <ul> \n   <li>work with industry bodies and the enterprise agencies\
+          \ to create market development plans for selected sub-sectors and countries</li>\
+          \ \n   <li>improve access to high quality graduates and technical talent</li>\
+          \ \n   <li>make sure businesses can still get skilled overseas employees\
+          \ (post-EU exit)</li> \n   <li>help businesses to get finance for export\
+          \ growth plans</li> \n   <li>find <a href=\"https://www.globalscot.com/\"\
+          >GlobalScots</a> or Trade Envoys who can help businesses with advice, support\
+          \ or introductions</li> \n  </ul> \n  <p>You can find more information on\
+          \ Scotland’s technology, digital and media sector in <a href=\"https://www.gov.scot/publications/scotland-a-trading-nation/\"\
+          >A Trading Nation</a>.</p> \n </body>\n</html>"
+        /technology-software-and-communications.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 5732adda-6b2f-4816-96ba-d98fd39486c6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /technology-figure-1.jpg:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 43b7633c-ac86-4bd8-b782-571d32c89e37
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /where-we-could-sell-more:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 35980c17-88ea-4ee7-aeca-f411302cce9d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /usa:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 209c139e-2cee-4db3-a0ee-b5e624dfdf10
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /germany:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 87bb246d-267d-4a6f-940e-be8e710cc9b6
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /china:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8ced663f-acff-44c0-a4af-f578292c2098
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /france:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 56351a80-62bc-4dd7-b1a3-ae2208241f1a
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /netherlands:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: e321b08f-db77-4814-a5dc-aa1d282f7aa8
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /switzerland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: 8c2ea42c-6e09-4bd5-b7fb-267284df7dde
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /norway:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: f2a7a0db-b129-432b-a00a-5121bcabdaf4
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /ireland:
+          jcr:primaryType: hippo:facetselect
+          hippo:docbase: cef68045-6109-4630-ba17-1f219aedb0ff
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
