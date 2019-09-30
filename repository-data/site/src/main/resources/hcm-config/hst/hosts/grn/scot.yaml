@@ -1,0 +1,22 @@
+definitions:
+  config:
+    /hst:hst/hst:hosts/grn/scot:
+      .meta:residual-child-node-category: content
+      jcr:primaryType: hst:virtualhost
+      hst:scheme: https
+      hst:showcontextpath: false
+      hst:showport: false
+      /mygov:
+        .meta:residual-child-node-category: content
+        jcr:primaryType: hst:virtualhost
+        /tradingnation:
+          .meta:residual-child-node-category: content
+          jcr:primaryType: hst:virtualhost
+          /green:
+            .meta:residual-child-node-category: content
+            jcr:primaryType: hst:virtualhost
+            /hst:root:
+              .meta:residual-child-node-category: content
+              jcr:primaryType: hst:mount
+              hst:mountpoint: /hst:publishing/hst:sites/trading-nation
+              hst:schemeagnostic: true
