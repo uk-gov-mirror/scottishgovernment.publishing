@@ -1,0 +1,66 @@
+/content/documents/trading-nation/administration:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['mix:referenceable']
+  jcr:uuid: e135f5d5-703c-4a3c-bdf2-7a01a501614e
+  hippostd:foldertype: [new-resource-bundle, new-untranslated-folder]
+  /robots:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: 1803fbbd-5ace-4e78-b2b3-178cecf529f9
+    hippo:versionHistory: 16841b5f-49ff-4415-888d-631401d3b6f7
+    /robots[1]:
+      jcr:primaryType: robotstxt:robotstxt
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: f42d0790-1981-4b0e-897e-5bf4f94b5ff8
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2014-06-02T14:04:49.737+02:00
+      hippostdpubwf:lastModificationDate: 2019-10-09T17:47:59.412+01:00
+      hippostdpubwf:lastModifiedBy: editor
+      hippostdpubwf:publicationDate: 2019-10-09T17:48:01.588+01:00
+      robotstxt:sitemap: ['https://tradingnation.mygov.scot/sitemap.xml']
+      /robotstxt:section:
+        jcr:primaryType: robotstxt:section
+        robotstxt:disallow: []
+        robotstxt:useragent: '*'
+    /robots[2]:
+      jcr:primaryType: robotstxt:robotstxt
+      jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+      jcr:uuid: a68b433c-4bd5-4be8-82bb-ece2777d650f
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2014-06-02T14:04:49.737+02:00
+      hippostdpubwf:lastModificationDate: 2019-10-09T17:48:21.075+01:00
+      hippostdpubwf:lastModifiedBy: author
+      robotstxt:sitemap: ['https://tradingnation.mygov.scot/sitemap.xml']
+      /robotstxt:section:
+        jcr:primaryType: robotstxt:section
+        robotstxt:disallow: []
+        robotstxt:useragent: '*'
+    /robots[3]:
+      jcr:primaryType: robotstxt:robotstxt
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 0d5a3d0e-917b-40fa-8d24-0740a83efe05
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2014-06-02T14:04:49.737+02:00
+      hippostdpubwf:lastModificationDate: 2019-10-09T17:48:19.715+01:00
+      hippostdpubwf:lastModifiedBy: author
+      robotstxt:sitemap: ['https://tradingnation.mygov.scot/sitemap.xml']
+      /robotstxt:section:
+        jcr:primaryType: robotstxt:section
+        robotstxt:disallow: []
+        robotstxt:useragent: '*'
+    /hippo:request:
+      jcr:primaryType: hippostdpubwf:request
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 8c89a197-cb99-42f1-a01e-730d473c2604
+      hippostdpubwf:creationDate: 2019-10-09T17:48:23.070+01:00
+      hippostdpubwf:document:
+        type: reference
+        path: robots/robots[2]
+      hippostdpubwf:type: publish
+      hippostdpubwf:username: author

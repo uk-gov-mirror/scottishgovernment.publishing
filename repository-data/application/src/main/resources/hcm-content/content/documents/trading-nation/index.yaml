@@ -1,0 +1,98 @@
+/content/documents/trading-nation/index:
+  .meta:order-before: increase-scottish-exports
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+  jcr:uuid: b750dc63-bbb1-4213-acf4-371f176a9099
+  hippo:name: index
+  hippo:versionHistory: 6c9bec46-6088-4670-a898-40297700c302
+  /index[1]:
+    jcr:primaryType: publishing:home
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: d297d4cd-8e0e-4398-b25f-4f2cb8aea936
+    hippo:availability: []
+    hippostd:state: draft
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-10-09T16:23:44.409+01:00
+    hippostdpubwf:lastModificationDate: 2019-10-09T16:23:44.409+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippotranslation:id: df0aaf61-b814-42c1-a5a4-f46e0f078db4
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: 'Warning: missing summary.'
+    publishing:navigationType: grid
+    publishing:permalink: ''
+    publishing:reportingtags: []
+    publishing:seoTitle: A Trading Nation – helping Scottish businesses to export
+    publishing:sequenceable: 'true'
+    publishing:summary: 'Warning: missing summary.'
+    publishing:title: A Trading Nation – helping Scottish businesses to export
+    /publishing:heroimage:
+      jcr:primaryType: hippogallerypicker:imagelink
+      hippo:docbase: 45bb8f63-b8cb-4020-bde0-67fc79b0541d
+      hippo:facets: []
+      hippo:modes: []
+      hippo:values: []
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: ''
+  /index[2]:
+    jcr:primaryType: publishing:home
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: b46741a1-ff1a-4fa7-83c4-22bc7af814fc
+    hippo:availability: [preview]
+    hippostd:state: unpublished
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-10-09T16:23:44.409+01:00
+    hippostdpubwf:lastModificationDate: 2019-10-09T16:23:46.651+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippotranslation:id: df0aaf61-b814-42c1-a5a4-f46e0f078db4
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: 'Warning: missing summary.'
+    publishing:navigationType: grid
+    publishing:permalink: ''
+    publishing:reportingtags: []
+    publishing:seoTitle: A Trading Nation – helping Scottish businesses to export
+    publishing:sequenceable: 'true'
+    publishing:summary: 'Warning: missing summary.'
+    publishing:title: A Trading Nation – helping Scottish businesses to export
+    /publishing:heroimage:
+      jcr:primaryType: hippogallerypicker:imagelink
+      hippo:docbase: 45bb8f63-b8cb-4020-bde0-67fc79b0541d
+      hippo:facets: []
+      hippo:modes: []
+      hippo:values: []
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: ''
+  /index[3]:
+    jcr:primaryType: publishing:home
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: cebcc33b-d285-4c41-bdea-df8001258d85
+    hippo:availability: [live]
+    hippostd:state: published
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-10-09T16:23:44.409+01:00
+    hippostdpubwf:lastModificationDate: 2019-10-09T16:23:46.651+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippostdpubwf:publicationDate: 2019-10-09T16:23:47.317+01:00
+    hippotranslation:id: df0aaf61-b814-42c1-a5a4-f46e0f078db4
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: 'Warning: missing summary.'
+    publishing:navigationType: grid
+    publishing:permalink: ''
+    publishing:reportingtags: []
+    publishing:seoTitle: A Trading Nation – helping Scottish businesses to export
+    publishing:sequenceable: 'true'
+    publishing:summary: 'Warning: missing summary.'
+    publishing:title: A Trading Nation – helping Scottish businesses to export
+    /publishing:heroimage:
+      jcr:primaryType: hippogallerypicker:imagelink
+      hippo:docbase: 45bb8f63-b8cb-4020-bde0-67fc79b0541d
+      hippo:facets: []
+      hippo:modes: []
+      hippo:values: []
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: ''

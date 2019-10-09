@@ -1,0 +1,191 @@
+/content/documents/trading-nation/why-exporting-is-important:
+  .meta:order-before: what-we-could-sell-more-of
+  jcr:primaryType: hippo:handle
+  jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+  jcr:uuid: efa12c80-cf9c-4bd4-8f5a-77e4bcc46d84
+  hippo:name: why-exporting-is-important
+  hippo:versionHistory: e386c888-03d8-4771-b377-387a2a4f4410
+  /why-exporting-is-important[1]:
+    jcr:primaryType: publishing:article
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 7f6572a4-db24-4d19-b09a-98836d8003d6
+    hippo:availability: []
+    hippostd:state: draft
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-10-09T16:23:48.701+01:00
+    hippostdpubwf:lastModificationDate: 2019-10-09T16:23:48.702+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippotranslation:id: 91493235-2077-47cb-8acd-1c8af71417a4
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: How exporting helps Scotland’s economy and businesses.
+    publishing:permalink: /why-exporting-is-important/
+    publishing:reportingtags: []
+    publishing:seoTitle: Why exporting's important
+    publishing:summary: How exporting helps Scotland’s economy and businesses.
+    publishing:title: Why exporting's important
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: |
+        <p class="leader  ds_leader">
+        Countries that export have stronger economies.
+        </p>
+        <p><img src="why-exportings-important-header.png/{_document}/hippogallery:original" alt="An image representing industry sectors that are key to Scotland's exports" /></p>
+        <p>Exporting helps Scotland’s economy to grow and creates jobs. It helps the Scottish Government collect more tax to:</p>
+        <ul>
+        <li>improve living standards</li>
+        <li>improve public services</li>
+        </ul>
+        <p>Exporting also helps Scotland build good relationships with other countries. This can help Scotland to have a positive influence on the world.</p>
+        <h2>How exporting helps businesses</h2>
+        <p>Exporting helps businesses to grow because it:</p>
+        <ul>
+        <li>leads them to create new products and services</li>
+        <li>makes them more productive</li>
+        <li>gives them more customers to sell to</li>
+        </ul>
+        <h2>New products and services</h2>
+        <p>Exporting can mean that businesses have more competitors.</p>
+        <p>But this can be a positive thing and can lead them to develop new products and services.</p>
+        <p>Businesses that export tend to spend more money on research and development. This helps them to develop new products and services to sell.</p>
+        <h2>Improving productivity</h2>
+        <p>Exporting helps businesses to become more productive. This means they produce more with the same amount of resources.</p>
+        <p>The <a href="https://www.ons.gov.uk/">Office of National Statistics</a> and <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy and Industrial Strategy</a> say:</p>
+        <ul>
+        <li>businesses that export make up 60% of the UK’s annual increase in productivity</li>
+        <li>the 3% of businesses in Scotland that export are on average 70% more productive than businesses that do not</li>
+        </ul>
+        <h2>More customers to sell to</h2>
+        <p>Exporting also means businesses do not have to rely on a particular set of customers. This helps businesses to spread any risks.</p>
+        <p>For example, if sales drop in one market, the risk to their business might be less if they have other markets they sell to.</p>
+        <h2>Scotland’s export growth plan</h2>
+        <p>Because exporting is important to Scotland and its businesses, the Scottish Government has created an export growth plan. This plan is called <a href="https://www.gov.scot/publications/scotland-a-trading-nation/">A Trading Nation</a>.</p>
+      /why-exportings-important-header.png:
+        jcr:primaryType: hippo:facetselect
+        hippo:docbase: d07d2704-c8f6-4270-b03c-0709e1114523
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /why-exporting-is-important[2]:
+    jcr:primaryType: publishing:article
+    jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+    jcr:uuid: bb910380-afdf-46fb-afa5-4a5c85124761
+    hippo:availability: [preview]
+    hippostd:state: unpublished
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-10-09T16:23:48.701+01:00
+    hippostdpubwf:lastModificationDate: 2019-10-09T16:23:49.136+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippotranslation:id: 91493235-2077-47cb-8acd-1c8af71417a4
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: How exporting helps Scotland’s economy and businesses.
+    publishing:permalink: /why-exporting-is-important/
+    publishing:reportingtags: []
+    publishing:seoTitle: Why exporting's important
+    publishing:summary: How exporting helps Scotland’s economy and businesses.
+    publishing:title: Why exporting's important
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: |
+        <p class="leader  ds_leader">
+        Countries that export have stronger economies.
+        </p>
+        <p><img src="why-exportings-important-header.png/{_document}/hippogallery:original" alt="An image representing industry sectors that are key to Scotland's exports" /></p>
+        <p>Exporting helps Scotland’s economy to grow and creates jobs. It helps the Scottish Government collect more tax to:</p>
+        <ul>
+        <li>improve living standards</li>
+        <li>improve public services</li>
+        </ul>
+        <p>Exporting also helps Scotland build good relationships with other countries. This can help Scotland to have a positive influence on the world.</p>
+        <h2>How exporting helps businesses</h2>
+        <p>Exporting helps businesses to grow because it:</p>
+        <ul>
+        <li>leads them to create new products and services</li>
+        <li>makes them more productive</li>
+        <li>gives them more customers to sell to</li>
+        </ul>
+        <h2>New products and services</h2>
+        <p>Exporting can mean that businesses have more competitors.</p>
+        <p>But this can be a positive thing and can lead them to develop new products and services.</p>
+        <p>Businesses that export tend to spend more money on research and development. This helps them to develop new products and services to sell.</p>
+        <h2>Improving productivity</h2>
+        <p>Exporting helps businesses to become more productive. This means they produce more with the same amount of resources.</p>
+        <p>The <a href="https://www.ons.gov.uk/">Office of National Statistics</a> and <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy and Industrial Strategy</a> say:</p>
+        <ul>
+        <li>businesses that export make up 60% of the UK’s annual increase in productivity</li>
+        <li>the 3% of businesses in Scotland that export are on average 70% more productive than businesses that do not</li>
+        </ul>
+        <h2>More customers to sell to</h2>
+        <p>Exporting also means businesses do not have to rely on a particular set of customers. This helps businesses to spread any risks.</p>
+        <p>For example, if sales drop in one market, the risk to their business might be less if they have other markets they sell to.</p>
+        <h2>Scotland’s export growth plan</h2>
+        <p>Because exporting is important to Scotland and its businesses, the Scottish Government has created an export growth plan. This plan is called <a href="https://www.gov.scot/publications/scotland-a-trading-nation/">A Trading Nation</a>.</p>
+      /why-exportings-important-header.png:
+        jcr:primaryType: hippo:facetselect
+        hippo:docbase: d07d2704-c8f6-4270-b03c-0709e1114523
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+  /why-exporting-is-important[3]:
+    jcr:primaryType: publishing:article
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: d193c540-9976-4ff3-82d5-e1067c0ca3f0
+    hippo:availability: [live]
+    hippostd:state: published
+    hippostdpubwf:createdBy: system
+    hippostdpubwf:creationDate: 2019-10-09T16:23:48.701+01:00
+    hippostdpubwf:lastModificationDate: 2019-10-09T16:23:49.136+01:00
+    hippostdpubwf:lastModifiedBy: system
+    hippostdpubwf:publicationDate: 2019-10-09T16:23:49.410+01:00
+    hippotranslation:id: 91493235-2077-47cb-8acd-1c8af71417a4
+    hippotranslation:locale: document-type-locale
+    publishing:authorNotes: ''
+    publishing:metaDescription: How exporting helps Scotland’s economy and businesses.
+    publishing:permalink: /why-exporting-is-important/
+    publishing:reportingtags: []
+    publishing:seoTitle: Why exporting's important
+    publishing:summary: How exporting helps Scotland’s economy and businesses.
+    publishing:title: Why exporting's important
+    /publishing:content:
+      jcr:primaryType: hippostd:html
+      hippostd:content: |
+        <p class="leader  ds_leader">
+        Countries that export have stronger economies.
+        </p>
+        <p><img src="why-exportings-important-header.png/{_document}/hippogallery:original" alt="An image representing industry sectors that are key to Scotland's exports" /></p>
+        <p>Exporting helps Scotland’s economy to grow and creates jobs. It helps the Scottish Government collect more tax to:</p>
+        <ul>
+        <li>improve living standards</li>
+        <li>improve public services</li>
+        </ul>
+        <p>Exporting also helps Scotland build good relationships with other countries. This can help Scotland to have a positive influence on the world.</p>
+        <h2>How exporting helps businesses</h2>
+        <p>Exporting helps businesses to grow because it:</p>
+        <ul>
+        <li>leads them to create new products and services</li>
+        <li>makes them more productive</li>
+        <li>gives them more customers to sell to</li>
+        </ul>
+        <h2>New products and services</h2>
+        <p>Exporting can mean that businesses have more competitors.</p>
+        <p>But this can be a positive thing and can lead them to develop new products and services.</p>
+        <p>Businesses that export tend to spend more money on research and development. This helps them to develop new products and services to sell.</p>
+        <h2>Improving productivity</h2>
+        <p>Exporting helps businesses to become more productive. This means they produce more with the same amount of resources.</p>
+        <p>The <a href="https://www.ons.gov.uk/">Office of National Statistics</a> and <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy">Department for Business, Energy and Industrial Strategy</a> say:</p>
+        <ul>
+        <li>businesses that export make up 60% of the UK’s annual increase in productivity</li>
+        <li>the 3% of businesses in Scotland that export are on average 70% more productive than businesses that do not</li>
+        </ul>
+        <h2>More customers to sell to</h2>
+        <p>Exporting also means businesses do not have to rely on a particular set of customers. This helps businesses to spread any risks.</p>
+        <p>For example, if sales drop in one market, the risk to their business might be less if they have other markets they sell to.</p>
+        <h2>Scotland’s export growth plan</h2>
+        <p>Because exporting is important to Scotland and its businesses, the Scottish Government has created an export growth plan. This plan is called <a href="https://www.gov.scot/publications/scotland-a-trading-nation/">A Trading Nation</a>.</p>
+      /why-exportings-important-header.png:
+        jcr:primaryType: hippo:facetselect
+        hippo:docbase: d07d2704-c8f6-4270-b03c-0709e1114523
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
