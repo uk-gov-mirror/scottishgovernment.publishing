@@ -1,0 +1,5 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/trading-nation:
+        jcr:primaryType: hst:configuration
+        hst:inheritsfrom: [../common]
