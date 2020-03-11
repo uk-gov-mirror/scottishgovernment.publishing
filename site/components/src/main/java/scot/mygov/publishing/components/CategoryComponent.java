@@ -5,11 +5,9 @@ import org.hippoecm.hst.content.beans.standard.HippoFolderBean;
 import org.hippoecm.hst.core.component.HstRequest;
 import org.hippoecm.hst.core.component.HstResponse;
 import org.onehippo.cms7.essentials.components.EssentialsContentComponent;
+import scot.mygov.publishing.beans.Mirror;
 
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 import static java.util.stream.Collectors.*;
 
@@ -20,17 +18,20 @@ import static java.util.stream.Collectors.*;
  * bean for any children, with the index bean being added in the place of any sub-categories.  This includes subcategories
  * and any articles etc.
  *
+ * This will also resolve any "mirror" content items.  These are used to allow a content item to appear in more than
+ * one category.
+ *
  * The footer and administration folders are excluded.
  */
 public class CategoryComponent extends EssentialsContentComponent {
 
     static final String INDEX = "index";
 
-    static final Set<String> EXCLUDED = new HashSet<>();
+    static final Set<String> EXCLUDED_FOLDERS = new HashSet<>();
 
     static {
         // node names that should not be included on the home page
-        Collections.addAll(EXCLUDED, "administration", "site-furniture");
+        Collections.addAll(EXCLUDED_FOLDERS, "administration", "site-furniture");
     }
 
     @Override
@@ -62,8 +63,10 @@ public class CategoryComponent extends EssentialsContentComponent {
                 .getChildBeans(HippoBean.class)
                 .stream()
                 .filter(CategoryComponent::notIndexFile)
-                .filter(node -> !excluded(node, folder, baseBean))
-                .map(CategoryComponent::mapBean)
+                .filter(node -> !isExcluded(node, folder, baseBean))
+                .map(CategoryComponent::mapFolder)
+                .map(CategoryComponent::mapMirror)
+                .filter(Objects::nonNull)
                 .collect(toList());
     }
 
@@ -71,15 +74,15 @@ public class CategoryComponent extends EssentialsContentComponent {
         return !INDEX.equals(bean.getName());
     }
 
-    // do not list certain folders at the root (e.g. footer, adminstration)
-    static boolean excluded(HippoBean bean, HippoFolderBean folder, HippoBean baseBean) {
-        return folder.equals(baseBean) &&  EXCLUDED.contains(bean.getName());
+    // do not list certain folders at the root (e.g. footer, administration)
+    static boolean isExcluded(HippoBean bean, HippoFolderBean folder, HippoBean baseBean) {
+        return folder.equals(baseBean) &&  EXCLUDED_FOLDERS.contains(bean.getName());
     }
 
     /**
      * Map the bean to use for this lint.  If it is a fodler then return the index file, otherwise just use this bean.
      */
-    static HippoBean mapBean(HippoBean bean) {
+    static HippoBean mapFolder(HippoBean bean) {
         return bean.isHippoFolderBean()
                 ? indexBean(bean)
                 : bean;
@@ -88,4 +91,19 @@ public class CategoryComponent extends EssentialsContentComponent {
     static HippoBean indexBean(HippoBean bean) {
         return bean.getBean(INDEX);
     }
+
+    /**
+     * Replace any mirrors with the document they point at
+     */
+    static HippoBean mapMirror(HippoBean bean) {
+        return bean instanceof Mirror
+                ? getDocumentFromMirror(bean)
+                : bean;
+    }
+
+    static HippoBean getDocumentFromMirror(HippoBean bean) {
+        Mirror mirror = (Mirror) bean;
+        return mirror.getDocument();
+    }
+
 }
