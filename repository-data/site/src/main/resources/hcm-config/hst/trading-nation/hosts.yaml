@@ -4,7 +4,7 @@ definitions:
       /trading-nation:
         .meta:residual-child-node-category: content
         jcr:primaryType: hst:mount
-        hst:mountpoint: /hst:publishing/hst:sites/configuration
+        hst:mountpoint: /hst:publishing/hst:sites/trading-nation
     /hst:hst/hst:hosts/lcl/scot/mygov:
       /tradingnation:
         jcr:primaryType: hst:virtualhost
@@ -12,7 +12,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/dev/scot/mygov:
       /tradingnation:
@@ -21,7 +21,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/int/scot/mygov:
       /tradingnation:
@@ -30,7 +30,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/exp/scot/mygov:
       /tradingnation:
@@ -39,7 +39,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/uat/scot/mygov:
       /tradingnation:
@@ -48,7 +48,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/per/scot/mygov:
       /tradingnation:
@@ -57,7 +57,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/tst/scot/mygov:
       /tradingnation:
@@ -66,7 +66,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/blu/scot/mygov:
       /tradingnation:
@@ -75,7 +75,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/grn/scot/mygov:
       /tradingnation:
@@ -84,7 +84,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/live/scot/mygov:
       /tradingnation:
@@ -93,7 +93,7 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/origin/scot/mygov:
       /tradingnation:
@@ -102,12 +102,12 @@ definitions:
           jcr:primaryType: hst:virtualhost
           /hst:root:
             jcr:primaryType: hst:mount
-            hst:mountpoint: /hst:publishing/hst:sites/configuration
+            hst:mountpoint: /hst:publishing/hst:sites/trading-nation
             hst:schemeagnostic: true
     /hst:hst/hst:hosts/production/scot/mygov:
       /tradingnation:
         jcr:primaryType: hst:virtualhost
         /hst:root:
           jcr:primaryType: hst:mount
-          hst:mountpoint: /hst:publishing/hst:sites/configuration
+          hst:mountpoint: /hst:publishing/hst:sites/trading-nation
           hst:schemeagnostic: true
