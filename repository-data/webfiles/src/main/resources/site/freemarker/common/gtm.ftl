@@ -1,13 +1,5 @@
 <#include "./include/imports.ftl">
 
-<#if useLiveAnalytics>
-    <#assign gtmAuth = "DxwtOU_tpyLiqCMda2mJCg" />
-    <#assign gtmEnv = "2" />
-<#else>
-    <#assign gtmAuth = "cHXwvKyUg23niqKjyEaXVA" />
-    <#assign gtmEnv = "49" />
-</#if>
-
 <@hst.headContribution category="googleTagManager">
 <!-- Google Tag Manager (GTM) -->
 <script id="gtm-datalayer">
