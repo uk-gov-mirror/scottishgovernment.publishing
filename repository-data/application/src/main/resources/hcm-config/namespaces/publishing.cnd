@@ -25,3 +25,6 @@
 [publishing:mirror] > hippostd:relaxed, hippotranslation:translated, publishing:basedocument
   orderable
 
+[publishing:relateditems] > hippo:compound, hippostd:relaxed
+  orderable
+

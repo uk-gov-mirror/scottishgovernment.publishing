@@ -11,4 +11,9 @@ public class Mirror extends BaseDocument {
     public HippoBean getDocument() {
         return getLinkedBean("publishing:document", HippoBean.class);
     }
+
+    @HippoEssentialsGenerated(internalName = "publishing:pinned")
+    public Boolean getPinned() {
+        return getSingleProperty("publishing:pinned");
+    }
 }
