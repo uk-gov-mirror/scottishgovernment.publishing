@@ -10,6 +10,9 @@
 [publishing:PublishingDocument] > hippostd:relaxed, hippotranslation:translated, publishing:basedocument
   orderable
 
+[publishing:analytics] > hippostd:relaxed, hippotranslation:translated, publishing:basedocument
+  orderable
+
 [publishing:base] > hippostd:relaxed, hippotranslation:translated, publishing:basedocument
   orderable
 
@@ -21,3 +24,4 @@
 
 [publishing:home] > hippostd:relaxed, hippotranslation:translated, publishing:base
   orderable
+
