@@ -40,4 +40,9 @@ public class Base extends BaseDocument {
     public String[] getTags() {
         return getMultipleProperty("hippostd:tags");
     }
+
+    @HippoEssentialsGenerated(internalName = "publishing:cardImage")
+    public ImageCard getCardImage() {
+        return getLinkedBean("publishing:cardImage", ImageCard.class);
+    }
 }

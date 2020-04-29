@@ -1,0 +1,274 @@
+/content/documents/trading-nation/testcat:
+  jcr:primaryType: hippostd:folder
+  jcr:mixinTypes: ['mix:versionable']
+  jcr:uuid: 53883e4d-8888-4e9f-84c5-90da0c723089
+  hippostd:foldertype: [new-publishing-article, new-publishing-category]
+  /index:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+    jcr:uuid: d8769c0f-1a89-463b-aa92-890af5b5aacc
+    hippo:name: testcat
+    hippo:versionHistory: 85decccb-9c84-4c32-80ba-b16f59a3902b
+    /index[1]:
+      jcr:primaryType: publishing:category
+      jcr:mixinTypes: ['mix:versionable']
+      jcr:uuid: 893babad-a85b-449d-99d2-938994692c99
+      hippo:availability: [preview]
+      hippostd:state: unpublished
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2020-02-27T15:40:17.676Z
+      hippostdpubwf:lastModificationDate: 2020-02-27T15:40:38.262Z
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 7b1bfa2f-b3b8-4f61-be09-e6737b2ffb6f
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: sdfsdf
+      publishing:navigationType: card
+      publishing:reportingtags: []
+      publishing:seoTitle: testcat
+      publishing:sequenceable: true
+      publishing:summary: sdfsdf
+      publishing:title: testcat
+      /publishing:heroImage:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 672485e1-5670-4a2c-97d3-b8f23bf51d8d
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+      /publishing:prologue:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+      /publishing:epilogue:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+    /index[2]:
+      jcr:primaryType: publishing:category
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 92b18580-aea5-4783-b5fc-40565b3c2b6b
+      hippo:availability: []
+      hippostd:state: draft
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2020-02-27T15:40:17.676Z
+      hippostdpubwf:lastModificationDate: 2020-02-27T15:40:22.131Z
+      hippostdpubwf:lastModifiedBy: admin
+      hippotranslation:id: 7b1bfa2f-b3b8-4f61-be09-e6737b2ffb6f
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: sdfsdf
+      publishing:navigationType: card
+      publishing:reportingtags: []
+      publishing:seoTitle: testcat
+      publishing:sequenceable: true
+      publishing:summary: sdfsdf
+      publishing:title: testcat
+      /publishing:heroImage:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 672485e1-5670-4a2c-97d3-b8f23bf51d8d
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+      /publishing:prologue:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+      /publishing:epilogue:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+    /index[3]:
+      jcr:primaryType: publishing:category
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 26502e1f-8058-43c6-b4fc-91086fe99666
+      hippo:availability: [live]
+      hippostd:state: published
+      hippostdpubwf:createdBy: admin
+      hippostdpubwf:creationDate: 2020-02-27T15:40:17.676Z
+      hippostdpubwf:lastModificationDate: 2020-02-27T15:40:38.262Z
+      hippostdpubwf:lastModifiedBy: admin
+      hippostdpubwf:publicationDate: 2020-02-27T15:42:27.298Z
+      hippotranslation:id: 7b1bfa2f-b3b8-4f61-be09-e6737b2ffb6f
+      hippotranslation:locale: document-type-locale
+      publishing:authorNotes: ''
+      publishing:metaDescription: sdfsdf
+      publishing:navigationType: card
+      publishing:reportingtags: []
+      publishing:seoTitle: testcat
+      publishing:sequenceable: true
+      publishing:summary: sdfsdf
+      publishing:title: testcat
+      /publishing:heroImage:
+        jcr:primaryType: hippogallerypicker:imagelink
+        hippo:docbase: 672485e1-5670-4a2c-97d3-b8f23bf51d8d
+        hippo:facets: []
+        hippo:modes: []
+        hippo:values: []
+      /publishing:content:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+      /publishing:prologue:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+      /publishing:epilogue:
+        jcr:primaryType: hippostd:html
+        hippostd:content: ''
+  /cat:
+    jcr:primaryType: hippostd:folder
+    jcr:mixinTypes: ['mix:versionable']
+    jcr:uuid: 12c7499b-5647-49af-970a-d546c5d992a2
+    hippostd:foldertype: [new-publishing-article, new-publishing-category]
+    /index:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:named', 'hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: 48cb2a86-48a3-4edd-a92a-6ca5e698dd9a
+      hippo:name: cat
+      hippo:versionHistory: 701e13cf-11e2-40c4-bec1-40d3f5f44c98
+      /index[1]:
+        jcr:primaryType: publishing:category
+        jcr:mixinTypes: ['mix:versionable']
+        jcr:uuid: 33c23657-0b6b-494f-8ade-c42587b4ce46
+        hippo:availability: [preview]
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2020-02-27T15:40:59.460Z
+        hippostdpubwf:lastModificationDate: 2020-02-27T15:40:59.460Z
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: 7b1bfa2f-b3b8-4f61-be09-e6737b2ffb6f
+        hippotranslation:locale: document-type-locale
+        publishing:authorNotes: ''
+        publishing:metaDescription: ''
+        publishing:navigationType: list
+        publishing:reportingtags: []
+        publishing:seoTitle: cat
+        publishing:sequenceable: true
+        publishing:summary: ''
+        publishing:title: cat
+        /publishing:heroImage:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 672485e1-5670-4a2c-97d3-b8f23bf51d8d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /publishing:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: ''
+      /index[2]:
+        jcr:primaryType: publishing:category
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: fb9a3ed1-4871-4abc-9f32-36f8d64a8a89
+        hippo:availability: [live]
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2020-02-27T15:40:59.460Z
+        hippostdpubwf:lastModificationDate: 2020-02-27T15:40:59.460Z
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2020-02-27T15:42:27.169Z
+        hippotranslation:id: 7b1bfa2f-b3b8-4f61-be09-e6737b2ffb6f
+        hippotranslation:locale: document-type-locale
+        publishing:authorNotes: ''
+        publishing:metaDescription: ''
+        publishing:navigationType: list
+        publishing:reportingtags: []
+        publishing:seoTitle: cat
+        publishing:sequenceable: true
+        publishing:summary: ''
+        publishing:title: cat
+        /publishing:heroImage:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 672485e1-5670-4a2c-97d3-b8f23bf51d8d
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+        /publishing:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: ''
+    /one:
+      jcr:primaryType: hippo:handle
+      jcr:mixinTypes: ['hippo:versionInfo', 'mix:referenceable']
+      jcr:uuid: 50502819-9093-4ad5-87bc-36f097215a8f
+      hippo:versionHistory: a9074cf7-16b8-48a9-b1f6-7f895d117bbc
+      /one[1]:
+        jcr:primaryType: publishing:article
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: db724ab5-f2c4-48ae-9bea-a930214048f7
+        hippo:availability: []
+        hippostd:state: draft
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2020-02-27T15:41:18.949Z
+        hippostdpubwf:lastModificationDate: 2020-02-27T15:41:18.949Z
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: 4f860e9a-6b92-44fc-818a-0dced32d8a65
+        hippotranslation:locale: document-type-locale
+        publishing:authorNotes: ''
+        publishing:metaDescription: sdfsdf
+        publishing:reportingtags: []
+        publishing:seoTitle: one
+        publishing:summary: sdfsdf
+        publishing:title: one
+        /publishing:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>sdfsdf</p>
+        /publishing:cardimage:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 37db4d25-a9b9-49f4-a54a-f98e2a775856
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /one[2]:
+        jcr:primaryType: publishing:article
+        jcr:mixinTypes: ['mix:referenceable', 'mix:versionable']
+        jcr:uuid: 0ebc225a-89eb-4948-b383-6799c02bb6bc
+        hippo:availability: [preview]
+        hippostd:state: unpublished
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2020-02-27T15:41:18.949Z
+        hippostdpubwf:lastModificationDate: 2020-02-27T15:42:48.299Z
+        hippostdpubwf:lastModifiedBy: admin
+        hippotranslation:id: 4f860e9a-6b92-44fc-818a-0dced32d8a65
+        hippotranslation:locale: document-type-locale
+        publishing:authorNotes: ''
+        publishing:metaDescription: sdfsdf
+        publishing:reportingtags: []
+        publishing:seoTitle: one
+        publishing:summary: sdfsdf
+        publishing:title: one
+        /publishing:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>sdfsdf</p>
+        /publishing:cardimage:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 37db4d25-a9b9-49f4-a54a-f98e2a775856
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []
+      /one[3]:
+        jcr:primaryType: publishing:article
+        jcr:mixinTypes: ['mix:referenceable']
+        jcr:uuid: 2bf57c39-2244-486e-bd4c-22974b398c43
+        hippo:availability: [live]
+        hippostd:state: published
+        hippostdpubwf:createdBy: admin
+        hippostdpubwf:creationDate: 2020-02-27T15:41:18.949Z
+        hippostdpubwf:lastModificationDate: 2020-02-27T15:42:48.299Z
+        hippostdpubwf:lastModifiedBy: admin
+        hippostdpubwf:publicationDate: 2020-02-27T15:42:50.150Z
+        hippotranslation:id: 4f860e9a-6b92-44fc-818a-0dced32d8a65
+        hippotranslation:locale: document-type-locale
+        publishing:authorNotes: ''
+        publishing:metaDescription: sdfsdf
+        publishing:reportingtags: []
+        publishing:seoTitle: one
+        publishing:summary: sdfsdf
+        publishing:title: one
+        /publishing:content:
+          jcr:primaryType: hippostd:html
+          hippostd:content: <p>sdfsdf</p>
+        /publishing:cardimage:
+          jcr:primaryType: hippogallerypicker:imagelink
+          hippo:docbase: 37db4d25-a9b9-49f4-a54a-f98e2a775856
+          hippo:facets: []
+          hippo:modes: []
+          hippo:values: []

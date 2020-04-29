@@ -11,7 +11,7 @@ definitions:
         /hipposysedit:nodetype:
           jcr:primaryType: hipposysedit:nodetype
           jcr:mixinTypes: ['mix:referenceable', 'hipposysedit:remodel']
-          jcr:uuid: 30132022-82dd-4a1b-847a-c1f1ea487b17
+          jcr:uuid: db41dffa-e58c-4801-a7f3-3b23941322c1
           hipposysedit:node: true
           hipposysedit:supertype: ['publishing:basedocument', 'hippostd:relaxed',
             'hippotranslation:translated', 'hippostd:taggable']
@@ -68,6 +68,15 @@ definitions:
             hipposysedit:path: publishing:reportingtags
             hipposysedit:primary: false
             hipposysedit:type: String
+          /cardimage:
+            jcr:primaryType: hipposysedit:field
+            hipposysedit:mandatory: false
+            hipposysedit:multiple: false
+            hipposysedit:ordered: false
+            hipposysedit:path: publishing:cardImage
+            hipposysedit:primary: false
+            hipposysedit:type: hippogallerypicker:imagelink
+            hipposysedit:validators: [optional]
       /hipposysedit:prototypes:
         jcr:primaryType: hipposysedit:prototypeset
         /hipposysedit:prototype:
@@ -81,13 +90,19 @@ definitions:
           jcr:mixinTypes: ['mix:referenceable', 'hippostd:taggable']
           publishing:summary: ''
           publishing:title: ''
-          jcr:uuid: 9191e0f0-c20a-4fa7-9598-ca7bb21b7210
+          jcr:uuid: eddd7490-addd-4255-a3ce-b0fae1afd1e3
           hippostdpubwf:lastModificationDate: 2019-09-03T14:51:07.551+01:00
           hippostdpubwf:creationDate: 2019-09-03T14:51:07.552+01:00
           publishing:seoTitle: ''
           publishing:authorNotes: ''
           publishing:metaDescription: ''
           publishing:reportingtags: []
+          /publishing:cardimage:
+            jcr:primaryType: hippogallerypicker:imagelink
+            hippo:docbase: cafebabe-cafe-babe-cafe-babecafebabe
+            hippo:facets: []
+            hippo:modes: []
+            hippo:values: []
       /editor:templates:
         jcr:primaryType: editor:templateset
         /_default_:
@@ -150,6 +165,15 @@ definitions:
             /cluster.options:
               jcr:primaryType: frontend:pluginconfig
               maxlength: '255'
+          /cardimage:
+            jcr:primaryType: frontend:plugin
+            caption: Card image
+            field: cardimage
+            hint: Image used for displaying this item within a Card layout
+            plugin.class: org.hippoecm.frontend.editor.plugins.field.NodeFieldPlugin
+            wicket.id: ${cluster.id}.field
+            /cluster.options:
+              jcr:primaryType: frontend:pluginconfig
           /taggable:
             jcr:primaryType: frontend:plugin
             mixin: hippostd:taggable
