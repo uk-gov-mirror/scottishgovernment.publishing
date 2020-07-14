@@ -1,2 +1,5 @@
 /hst:hst/hst:configurations/trading-nation/hst:workspace/hst:channel/hst:channelinfo:
   jcr:primaryType: hst:channelinfo
+  colour: pink
+  logo: ''
+  themeCss: /assets/tradingnation/css/main.css
