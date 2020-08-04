@@ -7,6 +7,5 @@ definitions:
         jcr:primaryType: hst:component
         hst:componentclassname: scot.mygov.publishing.components.SearchComponent
         hst:template: search-main
-        /breadcrumbs:
-          jcr:primaryType: hst:component
-          hst:referencecomponent: hst:components/breadcrumbs
+        hst:parameternames: [includeSubtypes, showPagination, pageSize]
+        hst:parametervalues: ['on', 'on', '10']
