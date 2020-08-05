@@ -218,7 +218,7 @@ definitions:
           /search:
             jcr:primaryType: hst:sitemapitem
             hst:componentconfigurationid: hst:pages/search
-            hst:relativecontentpath: search
+            hst:relativecontentpath: site-furniture/search/search-results
         /hst:abstractpages:
           jcr:primaryType: hst:pages
         /hst:pages:
