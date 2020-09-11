@@ -1,14 +1,5 @@
 package scot.mygov.publishing.valves;
 
-import java.io.IOException;
-import java.util.Calendar;
-
-import javax.jcr.Node;
-import javax.jcr.NodeIterator;
-import javax.jcr.RepositoryException;
-import javax.servlet.http.Cookie;
-import javax.servlet.http.HttpServletRequest;
-
 import org.apache.commons.lang3.StringUtils;
 import org.hippoecm.hst.configuration.hosting.Mount;
 import org.hippoecm.hst.container.valves.AbstractOrderableValve;
@@ -20,9 +11,17 @@ import org.hippoecm.repository.util.JcrUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import javax.jcr.Node;
+import javax.jcr.NodeIterator;
+import javax.jcr.RepositoryException;
+import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServletRequest;
+import java.io.IOException;
+import java.util.Calendar;
+
 public class PreviewValve extends AbstractOrderableValve {
 
-    private static final Logger log = LoggerFactory.getLogger(PreviewValve.class);
+    private static final Logger LOG = LoggerFactory.getLogger(PreviewValve.class);
     private static final String PREVIEW_KEY = "previewkey";
 
     @Override
@@ -48,17 +47,17 @@ public class PreviewValve extends AbstractOrderableValve {
                             }
                         }
                         if (!found) {
-                            log.debug("Preview key {} for document {} is invalid or preview link has expired.", contentBean.getPath(), previewKey);
+                            LOG.debug("Preview key {} for document {} is invalid or preview link has expired.", contentBean.getPath(), previewKey);
                             requestContext.getServletResponse().sendError(403);
                         }
                     } else {
-                        log.debug("Preview request doesn't contain content bean or preview key");
+                        LOG.debug("Preview request doesn't contain content bean or preview key");
                         requestContext.getServletResponse().sendError(403);
                     }
                 } catch (RepositoryException repositoryException) {
-                    log.error("Something with repo went wrong while accessing this node {}.", requestContext.getSiteContentBaseBean(), repositoryException);
+                    LOG.error("Something with repo went wrong while accessing this node {}.", requestContext.getSiteContentBaseBean(), repositoryException);
                 } catch (IOException ioException) {
-                    log.error("Something with IO went wrong while accessing this node {}.", requestContext.getSiteContentBaseBean(), ioException);
+                    LOG.error("Something with IO went wrong while accessing this node {}.", requestContext.getSiteContentBaseBean(), ioException);
                 }
             }
         } finally {
