@@ -1,5 +1,6 @@
 package scot.mygov.publishing.components;
 
+import nonapi.io.github.classgraph.utils.LogNode;
 import org.hippoecm.hst.content.beans.query.builder.Constraint;
 import org.hippoecm.hst.content.beans.query.builder.ConstraintBuilder;
 import org.hippoecm.repository.util.DateTools;
@@ -69,6 +70,39 @@ public class ConstraintUtils {
                 .stream().map(ConstraintUtils::publicationTypeConstraint).map(ConstraintUtils::orConstraint)
                 .forEach(constraints::add);
         return ConstraintBuilder.or(constraints.toArray(new Constraint[0]));
+    }
+
+    public static Constraint languagesConstraint(Search search) {
+        if (search.getLanguages().isEmpty()) {
+            return null;
+        }
+
+        Constraint [] constraintsArray = search.getLanguages().keySet()
+                .stream().map(ConstraintUtils::languageConstraint).map(ConstraintUtils::orConstraint)
+                .toArray(Constraint[]::new);
+        return or(constraintsArray);
+    }
+
+    static Constraint languageConstraint(String lang) {
+        return or(
+                constraint("publishing:contentBlocks/publishing:language").equalTo(lang),
+                constraint("../../documents/documents/publishing:contentBlocks/publishing:language").equalTo(lang)
+        );
+    }
+
+    public static Constraint accessibilityFeaturesConstraint(Search search) {
+        if (search.getAccessibilityFeatures().isEmpty()) {
+            return null;
+        }
+
+        Constraint [] constraintsArray = search.getAccessibilityFeatures().keySet()
+                .stream().map(ConstraintUtils::accessibilityFeatureConstraint).map(ConstraintUtils::orConstraint)
+                .toArray(Constraint[]::new);
+        return or(constraintsArray);
+    }
+
+    static Constraint accessibilityFeatureConstraint(String feature) {
+        return constraint("publishing:accessibilityfeatures").equalTo(feature);
     }
 
     static Constraint isType(String type) {

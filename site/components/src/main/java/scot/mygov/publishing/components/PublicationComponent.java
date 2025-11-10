@@ -18,6 +18,8 @@ import java.util.List;
 import java.util.Optional;
 
 import static java.util.stream.Collectors.*;
+import static scot.mygov.publishing.components.FilteredResultsComponent.languagesMap;
+import static scot.mygov.publishing.components.FilteredResultsComponent.languagesValueList;
 
 
 /**
@@ -38,7 +40,6 @@ public class PublicationComponent extends NewsComponent {
     @Override
     public void doBeforeRender(HstRequest request, HstResponse response) {
         super.doBeforeRender(request, response);
-
         Optional<HippoFolderBean> folder = publicationFolder(request, request.getRequestContext().getContentBean());
         if (folder.isPresent()) {
             HippoBean publication = folder.get().getBean(INDEX);

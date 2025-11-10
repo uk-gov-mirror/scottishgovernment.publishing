@@ -161,7 +161,6 @@
                                 <dt class="ds_metadata__key">File size</dt>
                                 <dd class="ds_metadata__value">${contentBlock.size}</dd>
                             </div>
-
                         </dl>
                     </div>
                 </div>

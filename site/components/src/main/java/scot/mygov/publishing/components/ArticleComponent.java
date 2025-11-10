@@ -9,6 +9,7 @@ import org.hippoecm.hst.core.linking.HstLinkCreator;
 import java.util.List;
 
 import static java.lang.Boolean.*;
+import static scot.mygov.publishing.components.FilteredResultsComponent.languagesMap;
 
 /**
  * Component used to back article pages.

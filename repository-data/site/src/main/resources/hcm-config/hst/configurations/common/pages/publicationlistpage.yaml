@@ -23,8 +23,8 @@ definitions:
         /side-filter:
           jcr:primaryType: hst:component
           hst:referencecomponent: hst:components/side-filter
-          hst:parameternames: [includePublicationTypesFilter, includeNews]
-          hst:parametervalues: ['true', 'false']
+          hst:parameternames: [includePublicationTypesFilter, includeNews, includeLanguages]
+          hst:parametervalues: ['true', 'false', 'true']
         /feedback:
           jcr:primaryType: hst:component
           hst:referencecomponent: hst:components/feedback
